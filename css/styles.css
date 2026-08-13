@@ -1,0 +1,580 @@
+/* 繝壹・繧ｸ蜈ｨ菴薙〒菴ｿ縺・・濶ｲ繧・・騾壼､縺ｧ縺吶・*/
+:root {
+  --bg: #eef6f4;
+  --panel: #ffffff;
+  --text: #17313a;
+  --muted: #5b7379;
+  --accent: #0f8b8d;
+  --accent-dark: #0a6263;
+  --border: #cfe1df;
+  --code: #0f1720;
+  --warn: #9a3d12;
+}
+
+/* 蝓ｺ譛ｬ逧・↑繝ｪ繧ｻ繝・ヨ縺ｧ縺吶・*/
+* {
+  box-sizing: border-box;
+}
+
+/* 逕ｻ髱｢蜈ｨ菴薙・閭梧勹縺ｨ蝓ｺ譛ｬ譁・ｭ励せ繧ｿ繧､繝ｫ縺ｧ縺吶・*/
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at top left, #d7efeb 0, transparent 32%),
+    linear-gradient(180deg, #f6fbfa 0%, var(--bg) 100%);
+}
+
+/* 繝｡繧､繝ｳ鬆伜沺縺ｮ蟷・→菴咏區縺ｧ縺吶・*/
+main {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+
+/* 繧ｿ繧､繝医Ν縺ｮ隕九◆逶ｮ縺ｧ縺吶・*/
+h1 {
+  margin: 0 0 10px;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+}
+
+/* 谿ｵ關ｽ縺ｮ蝓ｺ譛ｬ繧ｹ繧ｿ繧､繝ｫ縺ｧ縺吶・*/
+p {
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+/* 蜷・そ繧ｯ繧ｷ繝ｧ繝ｳ縺ｧ菴ｿ縺・・騾壹ヱ繝阪Ν縺ｧ縺吶・*/
+.panel {
+  margin-top: 24px;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--panel);
+  box-shadow: 0 20px 50px rgba(15, 49, 58, 0.08);
+}
+
+/* 蝓ｺ譛ｬ諠・ｱ繧ｫ繝ｼ繝峨ｒ荳ｦ縺ｹ繧九Ξ繧ｹ繝昴Φ繧ｷ繝悶げ繝ｪ繝・ラ縺ｧ縺吶・*/
+.meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+/* 蛟句挨縺ｮ諠・ｱ繧ｫ繝ｼ繝峨〒縺吶・*/
+.meta-card {
+  padding: 16px;
+  border-radius: 14px;
+  background: #f7fbfb;
+  border: 1px solid var(--border);
+}
+
+.meta-card strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 0.9rem;
+}
+
+/* 繝懊ち繝ｳ繧剃ｸｦ縺ｹ繧区桃菴懆｡後〒縺吶・*/
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: flex-end;
+  margin-top: -70px;
+}
+
+/* 荳ｻ繝懊ち繝ｳ縺ｮ繧ｹ繧ｿ繧､繝ｫ縺ｧ縺吶・*/
+button {
+  border: 0;
+  border-radius: 999px;
+  padding: 12px 18px;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  background: var(--accent);
+  color: #fff;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background: var(--accent-dark);
+  transform: translateY(-1px);
+}
+
+button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+  transform: none;
+}
+
+/* 陬懷勧繝懊ち繝ｳ縺ｮ繧ｹ繧ｿ繧､繝ｫ縺ｧ縺吶・*/
+.secondary {
+  background: #d9ece9;
+  color: var(--text);
+}
+
+.secondary:hover {
+  background: #c7e3df;
+}
+
+/* 謫堺ｽ懆｡後・荳九↓蜃ｺ縺吶せ繝・・繧ｿ繧ｹ陦ｨ遉ｺ縺ｧ縺吶・*/
+.status {
+  min-height: 24px;
+  margin-top: 14px;
+  font-weight: 600;
+  color: var(--accent-dark);
+}
+
+/* 隱ｭ縺ｿ霎ｼ縺ｿ螟ｱ謨玲凾縺ｮ隴ｦ蜻願牡縺ｧ縺吶・*/
+.warning {
+  color: var(--warn);
+}
+
+/* 邨先棡繝代ロ繝ｫ繧堤ｸｦ縺ｫ荳ｦ縺ｹ繧九Ξ繧､繧｢繧ｦ繝医〒縺吶・*/
+.results {
+  display: grid;
+  gap: 20px;
+  margin-top: 24px;
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.summary-groups {
+  display: grid;
+  gap: 20px;
+}
+
+.summary-group {
+  display: grid;
+  gap: 12px;
+}
+
+.summary-group h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+}
+
+.summary-card {
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: linear-gradient(180deg, #ffffff 0%, #f2fbf9 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+.summary-card strong {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.summary-card span {
+  display: block;
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--text);
+  word-break: break-word;
+}
+
+.record-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.record-date-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+  margin-bottom: 14px;
+}
+
+.record-summary-card {
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: linear-gradient(180deg, #ffffff 0%, #f3faf8 100%);
+}
+
+.record-summary-card strong {
+  display: block;
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.record-summary-values {
+  display: grid;
+  gap: 8px;
+}
+
+.record-summary-values span {
+  display: block;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.chart-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.range-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.metric-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.date-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.daily-custom-controls {
+  display: flex;
+  align-items: end;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.control-group {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.control-group-interval {
+  min-width: 180px;
+}
+
+.date-input {
+  min-width: 180px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font: inherit;
+  color: var(--text);
+  background: #fff;
+}
+
+.datetime-input,
+.time-input,
+.interval-input,
+.interval-unit-select {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font: inherit;
+  color: var(--text);
+  background: #fff;
+}
+
+.datetime-input {
+  min-width: 220px;
+}
+
+.time-input {
+  min-width: 132px;
+}
+
+.interval-inputs {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.interval-input {
+  width: 88px;
+}
+
+.interval-unit-select {
+  min-width: 88px;
+}
+
+.range-button {
+  background: #d9ece9;
+  color: var(--text);
+}
+
+.metric-button {
+  background: #ecf5f3;
+  color: var(--text);
+  padding: 10px 14px;
+}
+
+.range-button.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.metric-button.active {
+  background: var(--text);
+  color: #fff;
+}
+
+.chart-card {
+  margin-top: 16px;
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: linear-gradient(180deg, #ffffff 0%, #f5fbfa 100%);
+}
+
+.chart-meta {
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.trend-chart {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.chart-surface {
+  fill: #fcfffe;
+  stroke: var(--border);
+  stroke-width: 1;
+}
+
+.chart-grid-line {
+  stroke: rgba(23, 49, 58, 0.12);
+  stroke-width: 1;
+}
+
+.chart-grid-line-vertical {
+  stroke-dasharray: 4 6;
+}
+
+.chart-axis-label {
+  fill: var(--muted);
+  font-size: 12px;
+}
+
+.chart-line {
+  fill: none;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.chart-point {
+  stroke: #ffffff;
+  stroke-width: 1.5;
+}
+
+.chart-line-outdoor {
+  stroke: #0f8b8d;
+}
+
+.chart-line-indoor {
+  stroke: #d97706;
+}
+
+.chart-line-humidity {
+  stroke: #2563eb;
+}
+
+.chart-line-pressure {
+  stroke: #7c3aed;
+}
+
+.chart-line-wind {
+  stroke: #0891b2;
+}
+
+.chart-line-gust {
+  stroke: #ef4444;
+}
+
+.chart-line-uv {
+  stroke: #ca8a04;
+}
+
+.chart-line-dew {
+  stroke: #0f766e;
+}
+
+.chart-line-feels {
+  stroke: #db2777;
+}
+
+.chart-bar {
+  opacity: 0.9;
+}
+
+.chart-bar-rain {
+  fill: #2563eb;
+}
+
+.chart-bar-rain24 {
+  fill: #1d4ed8;
+}
+
+.chart-bar-rainrate {
+  fill: #0ea5e9;
+}
+
+.chart-empty {
+  fill: var(--muted);
+  font-size: 18px;
+}
+
+.chart-tooltip {
+  position: fixed;
+  z-index: 1000;
+  max-width: 240px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: rgba(15, 23, 32, 0.92);
+  color: #f8fffd;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  pointer-events: none;
+  box-shadow: 0 12px 30px rgba(15, 23, 32, 0.24);
+  white-space: pre-line;
+}
+
+.panel-subsection {
+  margin-top: 18px;
+}
+
+.panel-subsection h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+}
+
+/* 蜷・ヱ繝阪Ν蜀・・隕句・縺励〒縺吶・*/
+h2 {
+  margin: 0 0 12px;
+  font-size: 1.1rem;
+}
+
+/* 隕∫ｴ・ｄ JSON 繧定｡ｨ遉ｺ縺吶ｋ遲牙ｹ・ユ繧ｭ繧ｹ繝磯伜沺縺ｧ縺吶・*/
+pre {
+  margin: 0;
+  padding: 18px;
+  overflow: auto;
+  border-radius: 14px;
+  background: var(--code);
+  color: #daf7ef;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* 隱ｬ譏取枚蜀・・繧､繝ｳ繝ｩ繧､繝ｳ繧ｳ繝ｼ繝芽｡ｨ遉ｺ縺ｧ縺吶・*/
+code {
+  padding: 0.15em 0.4em;
+  border-radius: 6px;
+  background: rgba(15, 23, 32, 0.08);
+}
+
+.button-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 12px 18px;
+  font: inherit;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.page-intro {
+  margin: 0;
+}
+
+.record-ranking-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.record-ranking-item {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 12px;
+  align-items: start;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.record-ranking-item:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.record-ranking-rank {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+}
+
+.record-ranking-body {
+  display: grid;
+  gap: 4px;
+}
+
+.record-ranking-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.record-ranking-meta {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+#recordSummaryOutput {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+@media (max-width: 960px) {
+  #recordSummaryOutput {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  #recordSummaryOutput {
+    grid-template-columns: 1fr;
+  }
+}
