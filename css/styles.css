@@ -83,7 +83,6 @@ p {
   flex-wrap: wrap;
   gap: 12px;
   justify-content: flex-end;
-  margin-top: -70px;
 }
 
 /* 荳ｻ繝懊ち繝ｳ縺ｮ繧ｹ繧ｿ繧､繝ｫ縺ｧ縺吶・*/
@@ -575,6 +574,49 @@ code {
 
 @media (max-width: 560px) {
   #recordSummaryOutput {
+    grid-template-columns: 1fr;
+  }
+
+  main {
+    padding: 24px 14px 36px;
+  }
+
+  .panel {
+    padding: 16px;
+    border-radius: 16px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .page-header {
+    display: grid;
+    align-items: start;
+    justify-content: stretch;
+    gap: 14px;
+  }
+
+  .page-header h1 {
+    max-width: 100%;
+    line-height: 1.2;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+  }
+
+  .actions {
+    width: 100%;
+    justify-content: stretch;
+  }
+
+  .actions .button-link,
+  .actions button {
+    width: 100%;
+  }
+
+  .summary-grid,
+  .record-summary-grid,
+  .meta {
     grid-template-columns: 1fr;
   }
 }
