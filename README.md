@@ -1,2 +1,4 @@
-# weather-public
-気象観測器によるデータ表示の公開用
+# public-site
+
+GitHub Pages などの公開用に切り出した静的ファイル一式です。
+このディレクトリには公開してよい HTML / CSS / JS / data のみを出力します。

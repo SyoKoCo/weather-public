@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>過去最高記録</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main>
+    <div class="page-header">
+      <div>
+        <h1>過去最高記録</h1>
+        <p class="page-intro">各項目の 1 位から 5 位までを表示します。</p>
+      </div>
+      <div class="actions">
+        <a class="button-link secondary" href="weather.html">メイン画面</a>
+        <button id="reloadButton" type="button">更新</button>
+      </div>
+    </div>
+
+    <section class="results">
+      <div class="panel">
+        <h2>集計情報</h2>
+        <div id="metaOutput" class="meta">
+          <div class="meta-card">
+            <strong>状態</strong>
+            <span>読み込み中</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>ランキング</h2>
+        <div id="rankingOutput" class="record-summary-grid">
+          <div class="record-summary-card">
+            <strong>読み込み中</strong>
+            <div class="record-summary-values">
+              <span>データを取得しています</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/all-time-records.js"></script>
+</body>
+</html>

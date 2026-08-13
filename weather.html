@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Viewer</title>
+  <meta name="weather-latest-api-url" content="https://weather-observation.kou-syokora-00.workers.dev/latest">
+  <meta name="weather-all-api-url" content="https://weather-observation.kou-syokora-00.workers.dev/recent">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main>
+    <div class="page-header">
+      <h1>気象観測データ表示</h1>
+      <div class="actions">
+        <a class="button-link secondary" href="all-time-records.html">過去最高記録</a>
+        <button id="loadButton" type="button">更新</button>
+      </div>
+    </div>
+
+    <section class="results">
+      <div class="panel">
+        <h2>最新データ（5分間隔で更新）</h2>
+        <div id="summaryOutput" class="summary-groups">
+          <section class="summary-group">
+            <h3>読み込み中</h3>
+            <div class="summary-grid">
+              <div class="summary-card">
+                <strong>現在値</strong>
+                <span>データを読み込み中です</span>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>当日と前日の最高記録</h2>
+        <div id="recordSummaryOutput" class="record-summary-grid">
+          <div class="record-summary-card">
+            <strong>読込中</strong>
+            <div class="record-summary-values">
+              <span>今日: -</span>
+              <span>前日: -</span>
+            </div>
+          </div>
+        </div>
+        <br><br>
+        <h2>選択した日付の最高記録</h2>
+        <div class="record-date-controls">
+          <input id="recordDateInput" class="date-input" type="date">
+          <button id="recordDateLoadButton" type="button">表示</button>
+        </div>
+        <div id="selectedRecordSummaryOutput" class="record-summary-grid">
+          <div class="record-summary-card">
+            <strong>日付を選択してください</strong>
+            <div class="record-summary-values">
+              <span>-</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="chart-header">
+          <h2>24時間のグラフ</h2>
+          <div class="range-buttons" id="rangeButtons">
+            <button class="range-button active" data-range-key="24h" type="button">24時間</button>
+            <button class="range-button" data-range-key="custom" type="button">期間指定</button>
+          </div>
+        </div>
+        <div class="daily-custom-controls" id="customControls">
+          <label class="control-group">
+            <span>開始</span>
+            <input id="startDateTimeInput" class="datetime-input" type="datetime-local" step="60">
+          </label>
+          <label class="control-group">
+            <span>終了</span>
+            <input id="endDateTimeInput" class="datetime-input" type="datetime-local" step="60">
+          </label>
+          <label class="control-group control-group-interval">
+            <span>間隔</span>
+            <div class="interval-inputs">
+              <input id="intervalValueInput" class="interval-input" type="number" min="1" value="30">
+              <select id="intervalUnitSelect" class="interval-unit-select">
+                <option value="minutes">分</option>
+                <option value="hours">時間</option>
+              </select>
+            </div>
+          </label>
+          <button id="applyRangeButton" type="button">期間を反映</button>
+        </div>
+        <div class="metric-buttons" id="metricButtons"></div>
+        <div class="chart-card">
+          <div class="chart-meta" id="chartMetaText">データを読み込み中です</div>
+          <svg id="trendChart" class="trend-chart" viewBox="0 0 960 360" role="img" aria-label="最新データの推移グラフ"></svg>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="chart-header">
+          <h2>日別詳細グラフ</h2>
+          <div class="date-actions">
+            <input id="dailyDateInput" class="date-input" type="date">
+            <button id="dailyLoadButton" type="button">読込</button>
+          </div>
+        </div>
+        <div class="range-buttons" id="dailyRangeButtons">
+          <button class="range-button active" data-range-key="24h" type="button">24時間</button>
+          <button class="range-button" data-range-key="custom" type="button">期間指定</button>
+        </div>
+        <div class="daily-custom-controls" id="dailyCustomControls">
+          <label class="control-group">
+            <span>開始</span>
+            <input id="dailyStartTimeInput" class="time-input" type="time" value="00:00" step="60">
+          </label>
+          <label class="control-group">
+            <span>終了</span>
+            <input id="dailyEndTimeInput" class="time-input" type="time" value="23:59" step="60">
+          </label>
+          <label class="control-group control-group-interval">
+            <span>間隔</span>
+            <div class="interval-inputs">
+              <input id="dailyIntervalValueInput" class="interval-input" type="number" min="1" value="30">
+              <select id="dailyIntervalUnitSelect" class="interval-unit-select">
+                <option value="minutes">分</option>
+                <option value="hours">時間</option>
+              </select>
+            </div>
+          </label>
+          <button id="dailyApplyRangeButton" type="button">期間を反映</button>
+        </div>
+        <div class="metric-buttons" id="dailyMetricButtons"></div>
+        <div class="chart-card">
+          <div class="chart-meta" id="dailyChartMetaText">日付を選択してください</div>
+          <svg id="dailyTrendChart" class="trend-chart" viewBox="0 0 960 360" role="img" aria-label="日別データの推移グラフ"></svg>
+        </div>
+        <div class="panel-subsection">
+          <h3>Daily Raw Payload</h3>
+          <pre id="dailyPayloadOutput">データを読み込み中です</pre>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>最新5分ログ</h2>
+        <pre id="latestLogsOutput">データを読み込み中です</pre>
+      </div>
+
+      <div class="panel">
+        <h2>直近24時間のデータ</h2>
+        <pre id="historyOutput">データを読み込み中です</pre>
+      </div>
+
+      <div class="panel">
+        <h2>Latest Raw Payload</h2>
+        <pre id="payloadOutput">データを読み込み中です</pre>
+      </div>
+
+      <div class="panel">
+        <h2>Recent Raw Payload</h2>
+        <pre id="allPayloadOutput">データを読み込み中です</pre>
+      </div>
+    </section>
+  </main>
+
+  <div id="chartTooltip" class="chart-tooltip" hidden></div>
+  <script src="js/app.js"></script>
+</body>
+</html>
