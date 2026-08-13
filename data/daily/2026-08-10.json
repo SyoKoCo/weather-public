@@ -1,0 +1,523 @@
+{
+  "timezoneOffsetHours": 9,
+  "startLocal": "2026-08-10T00:00:00+09:00",
+  "endLocal": "2026-08-10T23:59:59+09:00",
+  "codes": [
+    "temp_current",
+    "humidity_value",
+    "temp_current_external",
+    "humidity_outdoor",
+    "atmospheric_pressture",
+    "windspeed_avg",
+    "windspeed_gust",
+    "rain_1h",
+    "rain_24h",
+    "rain_rate",
+    "uv_index",
+    "dew_point_temp",
+    "feellike_temp"
+  ],
+  "count": 100,
+  "logs": [
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373992844,
+      "value": "284"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373992835,
+      "value": "191"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373992438,
+      "value": "26"
+    },
+    {
+      "code": "humidity_outdoor",
+      "eventTime": 1786373992426,
+      "value": "70"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373962844,
+      "value": "280"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373962835,
+      "value": "193"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373962443,
+      "value": "66"
+    },
+    {
+      "code": "humidity_outdoor",
+      "eventTime": 1786373962431,
+      "value": "71"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373962422,
+      "value": "250"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373932935,
+      "value": "282"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373932424,
+      "value": "33"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786373911119,
+      "value": "57"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373902835,
+      "value": "283"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373872723,
+      "value": "282"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373872519,
+      "value": "26"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373842710,
+      "value": "283"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373842423,
+      "value": "53"
+    },
+    {
+      "code": "windspeed_avg",
+      "eventTime": 1786373842413,
+      "value": "7"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373812936,
+      "value": "282"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373812921,
+      "value": "192"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373812519,
+      "value": "46"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373812507,
+      "value": "251"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373782725,
+      "value": "287"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373782716,
+      "value": "193"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373782503,
+      "value": "252"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373752702,
+      "value": "286"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373752691,
+      "value": "192"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373752401,
+      "value": "251"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373722396,
+      "value": "33"
+    },
+    {
+      "code": "atmospheric_pressture",
+      "eventTime": 1786373701299,
+      "value": "1004"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373692707,
+      "value": "282"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373692496,
+      "value": "39"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373632905,
+      "value": "287"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373632895,
+      "value": "193"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373632485,
+      "value": "252"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373572480,
+      "value": "0"
+    },
+    {
+      "code": "temp_current",
+      "eventTime": 1786373551182,
+      "value": "260"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373542686,
+      "value": "286"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373542479,
+      "value": "19"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786373521175,
+      "value": "56"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373512688,
+      "value": "283"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373512371,
+      "value": "26"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786373491068,
+      "value": "57"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373482883,
+      "value": "286"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373482471,
+      "value": "39"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373452684,
+      "value": "280"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373452468,
+      "value": "26"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786373431271,
+      "value": "56"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373422685,
+      "value": "284"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373422676,
+      "value": "192"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373422485,
+      "value": "13"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373422473,
+      "value": "251"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373392668,
+      "value": "287"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786373371161,
+      "value": "57"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373362663,
+      "value": "284"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373362455,
+      "value": "26"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786373341158,
+      "value": "58"
+    },
+    {
+      "code": "windspeed_avg",
+      "eventTime": 1786373242440,
+      "value": "4"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373182433,
+      "value": "0"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373152429,
+      "value": "13"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373122739,
+      "value": "287"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373122482,
+      "value": "19"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373092924,
+      "value": "284"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373092912,
+      "value": "193"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373092431,
+      "value": "13"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786373092419,
+      "value": "252"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373062933,
+      "value": "288"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373062523,
+      "value": "39"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786373032703,
+      "value": "283"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373032415,
+      "value": "26"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786373002721,
+      "value": "194"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786373002526,
+      "value": "13"
+    },
+    {
+      "code": "humidity_outdoor",
+      "eventTime": 1786373002514,
+      "value": "70"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372972722,
+      "value": "288"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786372972712,
+      "value": "191"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786372972404,
+      "value": "253"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372942720,
+      "value": "289"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786372942713,
+      "value": "192"
+    },
+    {
+      "code": "humidity_outdoor",
+      "eventTime": 1786372942512,
+      "value": "69"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786372942503,
+      "value": "254"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786372912709,
+      "value": "194"
+    },
+    {
+      "code": "humidity_outdoor",
+      "eventTime": 1786372912499,
+      "value": "70"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786372822492,
+      "value": "0"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372792703,
+      "value": "288"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786372792697,
+      "value": "191"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786372792497,
+      "value": "26"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786372792485,
+      "value": "253"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372762691,
+      "value": "285"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786372762484,
+      "value": "6"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372732696,
+      "value": "289"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786372732690,
+      "value": "192"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786372732490,
+      "value": "33"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786372732477,
+      "value": "254"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372702683,
+      "value": "285"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786372702477,
+      "value": "39"
+    },
+    {
+      "code": "windspeed_gust",
+      "eventTime": 1786372672473,
+      "value": "19"
+    },
+    {
+      "code": "feellike_temp",
+      "eventTime": 1786372612762,
+      "value": "290"
+    },
+    {
+      "code": "dew_point_temp",
+      "eventTime": 1786372612751,
+      "value": "193"
+    },
+    {
+      "code": "temp_current_external",
+      "eventTime": 1786372612464,
+      "value": "255"
+    },
+    {
+      "code": "humidity_value",
+      "eventTime": 1786372531157,
+      "value": "62"
+    }
+  ]
+}
