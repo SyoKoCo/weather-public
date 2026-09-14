@@ -1,0 +1,5423 @@
+{
+  "timezoneOffsetHours": 9,
+  "startLocal": "2026-09-12T00:00:00+09:00",
+  "endLocal": "2026-09-12T23:59:59+09:00",
+  "codes": [
+    "temp_current",
+    "humidity_value",
+    "temp_current_external",
+    "humidity_outdoor",
+    "atmospheric_pressture",
+    "windspeed_avg",
+    "windspeed_gust",
+    "rain_1h",
+    "rain_24h",
+    "rain_rate",
+    "uv_index",
+    "dew_point_temp",
+    "feellike_temp"
+  ],
+  "count": 900,
+  "logs": [
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:58:46+09:00",
+      "eventTimeUnixMs": 1789225126096
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:58:46+09:00",
+      "eventTimeUnixMs": 1789225126086
+    },
+    {
+      "code": "temp_current_external",
+      "value": 249,
+      "eventTime": "2026-09-12T23:58:45+09:00",
+      "eventTimeUnixMs": 1789225125793
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T23:56:01+09:00",
+      "eventTimeUnixMs": 1789224961848
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T23:55:31+09:00",
+      "eventTimeUnixMs": 1789224931848
+    },
+    {
+      "code": "atmospheric_pressture",
+      "value": 1017,
+      "eventTime": "2026-09-12T23:55:01+09:00",
+      "eventTimeUnixMs": 1789224901955
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T23:55:01+09:00",
+      "eventTimeUnixMs": 1789224901944
+    },
+    {
+      "code": "feellike_temp",
+      "value": 293,
+      "eventTime": "2026-09-12T23:54:16+09:00",
+      "eventTimeUnixMs": 1789224856081
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T23:54:16+09:00",
+      "eventTimeUnixMs": 1789224856072
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:54:15+09:00",
+      "eventTimeUnixMs": 1789224855761
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:53:46+09:00",
+      "eventTimeUnixMs": 1789224826080
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:53:46+09:00",
+      "eventTimeUnixMs": 1789224826070
+    },
+    {
+      "code": "temp_current_external",
+      "value": 249,
+      "eventTime": "2026-09-12T23:53:45+09:00",
+      "eventTimeUnixMs": 1789224825758
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T23:50:01+09:00",
+      "eventTimeUnixMs": 1789224601908
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T23:49:01+09:00",
+      "eventTimeUnixMs": 1789224541798
+    },
+    {
+      "code": "feellike_temp",
+      "value": 293,
+      "eventTime": "2026-09-12T23:47:46+09:00",
+      "eventTimeUnixMs": 1789224466133
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T23:47:46+09:00",
+      "eventTimeUnixMs": 1789224466126
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 84,
+      "eventTime": "2026-09-12T23:47:45+09:00",
+      "eventTimeUnixMs": 1789224465927
+    },
+    {
+      "code": "temp_current",
+      "value": 257,
+      "eventTime": "2026-09-12T23:45:01+09:00",
+      "eventTimeUnixMs": 1789224301877
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T23:44:31+09:00",
+      "eventTimeUnixMs": 1789224271867
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:44:16+09:00",
+      "eventTimeUnixMs": 1789224256115
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:44:16+09:00",
+      "eventTimeUnixMs": 1789224256106
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:44:15+09:00",
+      "eventTimeUnixMs": 1789224255894
+    },
+    {
+      "code": "temp_current",
+      "value": 257,
+      "eventTime": "2026-09-12T23:44:01+09:00",
+      "eventTimeUnixMs": 1789224241876
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:43:46+09:00",
+      "eventTimeUnixMs": 1789224226103
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:43:46+09:00",
+      "eventTimeUnixMs": 1789224226094
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:43:45+09:00",
+      "eventTimeUnixMs": 1789224225786
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:41:16+09:00",
+      "eventTimeUnixMs": 1789224076123
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:41:16+09:00",
+      "eventTimeUnixMs": 1789224076113
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:41:15+09:00",
+      "eventTimeUnixMs": 1789224075871
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T23:40:31+09:00",
+      "eventTimeUnixMs": 1789224031838
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:39:16+09:00",
+      "eventTimeUnixMs": 1789223956035
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:39:16+09:00",
+      "eventTimeUnixMs": 1789223956028
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:39:15+09:00",
+      "eventTimeUnixMs": 1789223955856
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:38:46+09:00",
+      "eventTimeUnixMs": 1789223926072
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:38:46+09:00",
+      "eventTimeUnixMs": 1789223926063
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:38:45+09:00",
+      "eventTimeUnixMs": 1789223925852
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T23:37:31+09:00",
+      "eventTimeUnixMs": 1789223851821
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T23:35:31+09:00",
+      "eventTimeUnixMs": 1789223731917
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T23:35:31+09:00",
+      "eventTimeUnixMs": 1789223731909
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T23:34:31+09:00",
+      "eventTimeUnixMs": 1789223671904
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:33:16+09:00",
+      "eventTimeUnixMs": 1789223596138
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:33:16+09:00",
+      "eventTimeUnixMs": 1789223596128
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:33:15+09:00",
+      "eventTimeUnixMs": 1789223595915
+    },
+    {
+      "code": "humidity_value",
+      "value": 62,
+      "eventTime": "2026-09-12T23:33:01+09:00",
+      "eventTimeUnixMs": 1789223581784
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:32:46+09:00",
+      "eventTimeUnixMs": 1789223566131
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:32:46+09:00",
+      "eventTimeUnixMs": 1789223566121
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:32:45+09:00",
+      "eventTimeUnixMs": 1789223565912
+    },
+    {
+      "code": "humidity_value",
+      "value": 63,
+      "eventTime": "2026-09-12T23:32:31+09:00",
+      "eventTimeUnixMs": 1789223551883
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:31:46+09:00",
+      "eventTimeUnixMs": 1789223506123
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:31:46+09:00",
+      "eventTimeUnixMs": 1789223506114
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:31:45+09:00",
+      "eventTimeUnixMs": 1789223505904
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T23:29:45+09:00",
+      "eventTimeUnixMs": 1789223385893
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T23:29:15+09:00",
+      "eventTimeUnixMs": 1789223355889
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T23:28:45+09:00",
+      "eventTimeUnixMs": 1789223325789
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:28:16+09:00",
+      "eventTimeUnixMs": 1789223296103
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:28:16+09:00",
+      "eventTimeUnixMs": 1789223296097
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T23:28:15+09:00",
+      "eventTimeUnixMs": 1789223295896
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:28:15+09:00",
+      "eventTimeUnixMs": 1789223295885
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 0,
+      "eventTime": "2026-09-12T23:27:15+09:00",
+      "eventTimeUnixMs": 1789223235879
+    },
+    {
+      "code": "humidity_value",
+      "value": 64,
+      "eventTime": "2026-09-12T23:27:01+09:00",
+      "eventTimeUnixMs": 1789223221842
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:26:46+09:00",
+      "eventTimeUnixMs": 1789223206095
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:26:46+09:00",
+      "eventTimeUnixMs": 1789223206085
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:26:45+09:00",
+      "eventTimeUnixMs": 1789223205872
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:26:16+09:00",
+      "eventTimeUnixMs": 1789223176164
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:26:16+09:00",
+      "eventTimeUnixMs": 1789223176155
+    },
+    {
+      "code": "temp_current_external",
+      "value": 250,
+      "eventTime": "2026-09-12T23:26:15+09:00",
+      "eventTimeUnixMs": 1789223175868
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:22:46+09:00",
+      "eventTimeUnixMs": 1789222966138
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:22:46+09:00",
+      "eventTimeUnixMs": 1789222966132
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:22:45+09:00",
+      "eventTimeUnixMs": 1789222965838
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T23:21:16+09:00",
+      "eventTimeUnixMs": 1789222876152
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T23:21:16+09:00",
+      "eventTimeUnixMs": 1789222876142
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T23:21:15+09:00",
+      "eventTimeUnixMs": 1789222875934
+    },
+    {
+      "code": "feellike_temp",
+      "value": 294,
+      "eventTime": "2026-09-12T23:20:46+09:00",
+      "eventTimeUnixMs": 1789222846145
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:20:46+09:00",
+      "eventTimeUnixMs": 1789222846136
+    },
+    {
+      "code": "temp_current_external",
+      "value": 251,
+      "eventTime": "2026-09-12T23:20:45+09:00",
+      "eventTimeUnixMs": 1789222845926
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T23:19:46+09:00",
+      "eventTimeUnixMs": 1789222786131
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 83,
+      "eventTime": "2026-09-12T23:19:45+09:00",
+      "eventTimeUnixMs": 1789222785920
+    },
+    {
+      "code": "temp_current",
+      "value": 261,
+      "eventTime": "2026-09-12T23:18:31+09:00",
+      "eventTimeUnixMs": 1789222711885
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T23:18:15+09:00",
+      "eventTimeUnixMs": 1789222695809
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T23:17:46+09:00",
+      "eventTimeUnixMs": 1789222666112
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T23:17:45+09:00",
+      "eventTimeUnixMs": 1789222665821
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T23:17:16+09:00",
+      "eventTimeUnixMs": 1789222636124
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:17:16+09:00",
+      "eventTimeUnixMs": 1789222636117
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T23:17:15+09:00",
+      "eventTimeUnixMs": 1789222635922
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 2,
+      "eventTime": "2026-09-12T23:17:15+09:00",
+      "eventTimeUnixMs": 1789222635912
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T23:17:15+09:00",
+      "eventTimeUnixMs": 1789222635901
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T23:16:46+09:00",
+      "eventTimeUnixMs": 1789222606120
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T23:16:45+09:00",
+      "eventTimeUnixMs": 1789222605906
+    },
+    {
+      "code": "feellike_temp",
+      "value": 290,
+      "eventTime": "2026-09-12T23:16:16+09:00",
+      "eventTimeUnixMs": 1789222576115
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:16:16+09:00",
+      "eventTimeUnixMs": 1789222576109
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T23:16:15+09:00",
+      "eventTimeUnixMs": 1789222575894
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T23:15:46+09:00",
+      "eventTimeUnixMs": 1789222546186
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 82,
+      "eventTime": "2026-09-12T23:15:45+09:00",
+      "eventTimeUnixMs": 1789222545891
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T23:15:15+09:00",
+      "eventTimeUnixMs": 1789222515890
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T23:14:46+09:00",
+      "eventTimeUnixMs": 1789222486102
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T23:14:46+09:00",
+      "eventTimeUnixMs": 1789222486096
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T23:14:45+09:00",
+      "eventTimeUnixMs": 1789222485894
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T23:14:45+09:00",
+      "eventTimeUnixMs": 1789222485883
+    },
+    {
+      "code": "feellike_temp",
+      "value": 293,
+      "eventTime": "2026-09-12T23:14:16+09:00",
+      "eventTimeUnixMs": 1789222456178
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T23:13:46+09:00",
+      "eventTimeUnixMs": 1789222426184
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:13:46+09:00",
+      "eventTimeUnixMs": 1789222426174
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T23:13:45+09:00",
+      "eventTimeUnixMs": 1789222425889
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T23:13:45+09:00",
+      "eventTimeUnixMs": 1789222425877
+    },
+    {
+      "code": "temp_current",
+      "value": 262,
+      "eventTime": "2026-09-12T23:10:31+09:00",
+      "eventTimeUnixMs": 1789222231829
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T23:10:01+09:00",
+      "eventTimeUnixMs": 1789222201826
+    },
+    {
+      "code": "temp_current",
+      "value": 262,
+      "eventTime": "2026-09-12T23:09:31+09:00",
+      "eventTimeUnixMs": 1789222171822
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T23:03:16+09:00",
+      "eventTimeUnixMs": 1789221796117
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T23:03:16+09:00",
+      "eventTimeUnixMs": 1789221796110
+    },
+    {
+      "code": "temp_current_external",
+      "value": 256,
+      "eventTime": "2026-09-12T23:03:15+09:00",
+      "eventTimeUnixMs": 1789221795922
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T23:02:46+09:00",
+      "eventTimeUnixMs": 1789221766211
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T23:02:46+09:00",
+      "eventTimeUnixMs": 1789221766201
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 81,
+      "eventTime": "2026-09-12T23:02:45+09:00",
+      "eventTimeUnixMs": 1789221765912
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T23:02:45+09:00",
+      "eventTimeUnixMs": 1789221765902
+    },
+    {
+      "code": "feellike_temp",
+      "value": 300,
+      "eventTime": "2026-09-12T23:02:16+09:00",
+      "eventTimeUnixMs": 1789221736192
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T23:02:16+09:00",
+      "eventTimeUnixMs": 1789221736182
+    },
+    {
+      "code": "temp_current_external",
+      "value": 256,
+      "eventTime": "2026-09-12T23:02:15+09:00",
+      "eventTimeUnixMs": 1789221735894
+    },
+    {
+      "code": "humidity_value",
+      "value": 65,
+      "eventTime": "2026-09-12T22:58:01+09:00",
+      "eventTimeUnixMs": 1789221481836
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T22:57:16+09:00",
+      "eventTimeUnixMs": 1789221436179
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:57:16+09:00",
+      "eventTimeUnixMs": 1789221436173
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 0,
+      "eventTime": "2026-09-12T22:57:15+09:00",
+      "eventTimeUnixMs": 1789221435981
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T22:57:15+09:00",
+      "eventTimeUnixMs": 1789221435980
+    },
+    {
+      "code": "atmospheric_pressture",
+      "value": 1017,
+      "eventTime": "2026-09-12T22:55:02+09:00",
+      "eventTimeUnixMs": 1789221302020
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:54:46+09:00",
+      "eventTimeUnixMs": 1789221286163
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:54:46+09:00",
+      "eventTimeUnixMs": 1789221286153
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:54:45+09:00",
+      "eventTimeUnixMs": 1789221285942
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T22:52:31+09:00",
+      "eventTimeUnixMs": 1789221151796
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:52:16+09:00",
+      "eventTimeUnixMs": 1789221136228
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T22:52:16+09:00",
+      "eventTimeUnixMs": 1789221136218
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 82,
+      "eventTime": "2026-09-12T22:52:15+09:00",
+      "eventTimeUnixMs": 1789221135933
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:51:31+09:00",
+      "eventTimeUnixMs": 1789221091890
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T22:51:01+09:00",
+      "eventTimeUnixMs": 1789221061899
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:50:31+09:00",
+      "eventTimeUnixMs": 1789221031781
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:50:16+09:00",
+      "eventTimeUnixMs": 1789221016209
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:50:16+09:00",
+      "eventTimeUnixMs": 1789221016197
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:50:15+09:00",
+      "eventTimeUnixMs": 1789221015912
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T22:49:31+09:00",
+      "eventTimeUnixMs": 1789220971879
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:49:16+09:00",
+      "eventTimeUnixMs": 1789220956422
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:49:16+09:00",
+      "eventTimeUnixMs": 1789220956413
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T22:49:16+09:00",
+      "eventTimeUnixMs": 1789220956004
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:48:46+09:00",
+      "eventTimeUnixMs": 1789220926223
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:48:46+09:00",
+      "eventTimeUnixMs": 1789220926214
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:48:46+09:00",
+      "eventTimeUnixMs": 1789220926001
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:47:16+09:00",
+      "eventTimeUnixMs": 1789220836206
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:47:16+09:00",
+      "eventTimeUnixMs": 1789220836199
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 1,
+      "eventTime": "2026-09-12T22:47:16+09:00",
+      "eventTimeUnixMs": 1789220836001
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T22:47:15+09:00",
+      "eventTimeUnixMs": 1789220835989
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:45:46+09:00",
+      "eventTimeUnixMs": 1789220746212
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:45:46+09:00",
+      "eventTimeUnixMs": 1789220746203
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 83,
+      "eventTime": "2026-09-12T22:45:46+09:00",
+      "eventTimeUnixMs": 1789220746026
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:45:46+09:00",
+      "eventTimeUnixMs": 1789220746016
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:45:16+09:00",
+      "eventTimeUnixMs": 1789220716015
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:44:45+09:00",
+      "eventTimeUnixMs": 1789220685979
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:44:01+09:00",
+      "eventTimeUnixMs": 1789220641837
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:43:46+09:00",
+      "eventTimeUnixMs": 1789220626174
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:43:45+09:00",
+      "eventTimeUnixMs": 1789220625968
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T22:43:16+09:00",
+      "eventTimeUnixMs": 1789220596257
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T22:43:15+09:00",
+      "eventTimeUnixMs": 1789220595963
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:42:46+09:00",
+      "eventTimeUnixMs": 1789220566264
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T22:42:46+09:00",
+      "eventTimeUnixMs": 1789220566256
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T22:42:45+09:00",
+      "eventTimeUnixMs": 1789220565957
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:42:15+09:00",
+      "eventTimeUnixMs": 1789220535956
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T22:41:45+09:00",
+      "eventTimeUnixMs": 1789220505952
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:40:45+09:00",
+      "eventTimeUnixMs": 1789220445944
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T22:40:31+09:00",
+      "eventTimeUnixMs": 1789220431810
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:40:01+09:00",
+      "eventTimeUnixMs": 1789220401814
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:39:45+09:00",
+      "eventTimeUnixMs": 1789220385939
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:39:16+09:00",
+      "eventTimeUnixMs": 1789220356230
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T22:39:16+09:00",
+      "eventTimeUnixMs": 1789220356218
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:39:15+09:00",
+      "eventTimeUnixMs": 1789220355934
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:38:46+09:00",
+      "eventTimeUnixMs": 1789220326223
+    },
+    {
+      "code": "feellike_temp",
+      "value": 292,
+      "eventTime": "2026-09-12T22:38:16+09:00",
+      "eventTimeUnixMs": 1789220296256
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T22:38:16+09:00",
+      "eventTimeUnixMs": 1789220296247
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T22:38:15+09:00",
+      "eventTimeUnixMs": 1789220295958
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:37:46+09:00",
+      "eventTimeUnixMs": 1789220266240
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T22:37:46+09:00",
+      "eventTimeUnixMs": 1789220266234
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:37:46+09:00",
+      "eventTimeUnixMs": 1789220266035
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:37:46+09:00",
+      "eventTimeUnixMs": 1789220266022
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 4,
+      "eventTime": "2026-09-12T22:37:16+09:00",
+      "eventTimeUnixMs": 1789220236022
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T22:36:46+09:00",
+      "eventTimeUnixMs": 1789220206238
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 82,
+      "eventTime": "2026-09-12T22:36:46+09:00",
+      "eventTimeUnixMs": 1789220206022
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:36:16+09:00",
+      "eventTimeUnixMs": 1789220176234
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:36:16+09:00",
+      "eventTimeUnixMs": 1789220176019
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 83,
+      "eventTime": "2026-09-12T22:36:16+09:00",
+      "eventTimeUnixMs": 1789220176009
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T22:36:01+09:00",
+      "eventTimeUnixMs": 1789220161778
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:35:46+09:00",
+      "eventTimeUnixMs": 1789220146012
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:35:16+09:00",
+      "eventTimeUnixMs": 1789220116217
+    },
+    {
+      "code": "feellike_temp",
+      "value": 291,
+      "eventTime": "2026-09-12T22:34:46+09:00",
+      "eventTimeUnixMs": 1789220086214
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:34:46+09:00",
+      "eventTimeUnixMs": 1789220086005
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:34:16+09:00",
+      "eventTimeUnixMs": 1789220056217
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 218,
+      "eventTime": "2026-09-12T22:34:16+09:00",
+      "eventTimeUnixMs": 1789220056211
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T22:34:16+09:00",
+      "eventTimeUnixMs": 1789220056010
+    },
+    {
+      "code": "temp_current_external",
+      "value": 252,
+      "eventTime": "2026-09-12T22:34:15+09:00",
+      "eventTimeUnixMs": 1789220055997
+    },
+    {
+      "code": "feellike_temp",
+      "value": 293,
+      "eventTime": "2026-09-12T22:33:46+09:00",
+      "eventTimeUnixMs": 1789220026206
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:33:45+09:00",
+      "eventTimeUnixMs": 1789220025997
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:33:16+09:00",
+      "eventTimeUnixMs": 1789219996200
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T22:33:15+09:00",
+      "eventTimeUnixMs": 1789219995993
+    },
+    {
+      "code": "feellike_temp",
+      "value": 290,
+      "eventTime": "2026-09-12T22:32:46+09:00",
+      "eventTimeUnixMs": 1789219966274
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:32:16+09:00",
+      "eventTimeUnixMs": 1789219936203
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T22:32:16+09:00",
+      "eventTimeUnixMs": 1789219936196
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T22:32:15+09:00",
+      "eventTimeUnixMs": 1789219935996
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:32:15+09:00",
+      "eventTimeUnixMs": 1789219935983
+    },
+    {
+      "code": "feellike_temp",
+      "value": 293,
+      "eventTime": "2026-09-12T22:31:46+09:00",
+      "eventTimeUnixMs": 1789219906270
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:31:45+09:00",
+      "eventTimeUnixMs": 1789219905982
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:31:15+09:00",
+      "eventTimeUnixMs": 1789219875980
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:30:46+09:00",
+      "eventTimeUnixMs": 1789219846262
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T22:30:45+09:00",
+      "eventTimeUnixMs": 1789219845979
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:30:16+09:00",
+      "eventTimeUnixMs": 1789219816251
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:30:16+09:00",
+      "eventTimeUnixMs": 1789219816244
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:30:15+09:00",
+      "eventTimeUnixMs": 1789219815985
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:30:15+09:00",
+      "eventTimeUnixMs": 1789219815972
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:29:15+09:00",
+      "eventTimeUnixMs": 1789219755972
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T22:26:46+09:00",
+      "eventTimeUnixMs": 1789219606260
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:26:46+09:00",
+      "eventTimeUnixMs": 1789219606250
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T22:26:45+09:00",
+      "eventTimeUnixMs": 1789219605942
+    },
+    {
+      "code": "humidity_value",
+      "value": 66,
+      "eventTime": "2026-09-12T22:26:31+09:00",
+      "eventTimeUnixMs": 1789219591811
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:26:16+09:00",
+      "eventTimeUnixMs": 1789219576260
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:26:16+09:00",
+      "eventTimeUnixMs": 1789219576250
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:26:16+09:00",
+      "eventTimeUnixMs": 1789219576046
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:25:31+09:00",
+      "eventTimeUnixMs": 1789219531803
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T22:25:16+09:00",
+      "eventTimeUnixMs": 1789219516252
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:25:16+09:00",
+      "eventTimeUnixMs": 1789219516242
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T22:25:15+09:00",
+      "eventTimeUnixMs": 1789219515931
+    },
+    {
+      "code": "temp_current",
+      "value": 265,
+      "eventTime": "2026-09-12T22:25:01+09:00",
+      "eventTimeUnixMs": 1789219501817
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:24:46+09:00",
+      "eventTimeUnixMs": 1789219486247
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:24:46+09:00",
+      "eventTimeUnixMs": 1789219486240
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:24:46+09:00",
+      "eventTimeUnixMs": 1789219486043
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:24:46+09:00",
+      "eventTimeUnixMs": 1789219486030
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:24:31+09:00",
+      "eventTimeUnixMs": 1789219471814
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T22:24:16+09:00",
+      "eventTimeUnixMs": 1789219456250
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:24:16+09:00",
+      "eventTimeUnixMs": 1789219456241
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T22:24:16+09:00",
+      "eventTimeUnixMs": 1789219456031
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:23:46+09:00",
+      "eventTimeUnixMs": 1789219426249
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:23:46+09:00",
+      "eventTimeUnixMs": 1789219426241
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T22:23:46+09:00",
+      "eventTimeUnixMs": 1789219426044
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:23:46+09:00",
+      "eventTimeUnixMs": 1789219426033
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T22:22:16+09:00",
+      "eventTimeUnixMs": 1789219336233
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:22:16+09:00",
+      "eventTimeUnixMs": 1789219336224
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T22:22:16+09:00",
+      "eventTimeUnixMs": 1789219336012
+    },
+    {
+      "code": "humidity_value",
+      "value": 67,
+      "eventTime": "2026-09-12T22:19:31+09:00",
+      "eventTimeUnixMs": 1789219171870
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:17:46+09:00",
+      "eventTimeUnixMs": 1789219066301
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:17:46+09:00",
+      "eventTimeUnixMs": 1789219066291
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:17:46+09:00",
+      "eventTimeUnixMs": 1789219066086
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:17:16+09:00",
+      "eventTimeUnixMs": 1789219036282
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T22:17:16+09:00",
+      "eventTimeUnixMs": 1789219036273
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 82,
+      "eventTime": "2026-09-12T22:17:15+09:00",
+      "eventTimeUnixMs": 1789219035989
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:17:15+09:00",
+      "eventTimeUnixMs": 1789219035979
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T22:16:46+09:00",
+      "eventTimeUnixMs": 1789219006279
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T22:16:46+09:00",
+      "eventTimeUnixMs": 1789219006272
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:16:45+09:00",
+      "eventTimeUnixMs": 1789219005993
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 83,
+      "eventTime": "2026-09-12T22:16:45+09:00",
+      "eventTimeUnixMs": 1789219005981
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:16:45+09:00",
+      "eventTimeUnixMs": 1789219005972
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T22:16:16+09:00",
+      "eventTimeUnixMs": 1789218976074
+    },
+    {
+      "code": "feellike_temp",
+      "value": 296,
+      "eventTime": "2026-09-12T22:15:46+09:00",
+      "eventTimeUnixMs": 1789218946283
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 219,
+      "eventTime": "2026-09-12T22:15:46+09:00",
+      "eventTimeUnixMs": 1789218946277
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:15:46+09:00",
+      "eventTimeUnixMs": 1789218946067
+    },
+    {
+      "code": "feellike_temp",
+      "value": 295,
+      "eventTime": "2026-09-12T22:15:16+09:00",
+      "eventTimeUnixMs": 1789218916274
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T22:15:16+09:00",
+      "eventTimeUnixMs": 1789218916072
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:14:46+09:00",
+      "eventTimeUnixMs": 1789218886063
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T22:14:16+09:00",
+      "eventTimeUnixMs": 1789218856060
+    },
+    {
+      "code": "temp_current",
+      "value": 265,
+      "eventTime": "2026-09-12T22:11:01+09:00",
+      "eventTimeUnixMs": 1789218661800
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:10:31+09:00",
+      "eventTimeUnixMs": 1789218631797
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:10:16+09:00",
+      "eventTimeUnixMs": 1789218616328
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 220,
+      "eventTime": "2026-09-12T22:10:16+09:00",
+      "eventTimeUnixMs": 1789218616318
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 82,
+      "eventTime": "2026-09-12T22:10:16+09:00",
+      "eventTimeUnixMs": 1789218616027
+    },
+    {
+      "code": "temp_current",
+      "value": 265,
+      "eventTime": "2026-09-12T22:07:31+09:00",
+      "eventTimeUnixMs": 1789218451775
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T22:07:16+09:00",
+      "eventTimeUnixMs": 1789218436305
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T22:07:16+09:00",
+      "eventTimeUnixMs": 1789218436298
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:07:16+09:00",
+      "eventTimeUnixMs": 1789218436009
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:05:16+09:00",
+      "eventTimeUnixMs": 1789218316291
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:05:16+09:00",
+      "eventTimeUnixMs": 1789218316284
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T22:05:16+09:00",
+      "eventTimeUnixMs": 1789218316004
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:05:15+09:00",
+      "eventTimeUnixMs": 1789218315991
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:05:01+09:00",
+      "eventTimeUnixMs": 1789218301756
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T22:04:46+09:00",
+      "eventTimeUnixMs": 1789218286099
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T22:04:16+09:00",
+      "eventTimeUnixMs": 1789218256263
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T22:04:16+09:00",
+      "eventTimeUnixMs": 1789218256256
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:04:16+09:00",
+      "eventTimeUnixMs": 1789218256086
+    },
+    {
+      "code": "temp_current",
+      "value": 265,
+      "eventTime": "2026-09-12T22:04:01+09:00",
+      "eventTimeUnixMs": 1789218241752
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:03:16+09:00",
+      "eventTimeUnixMs": 1789218196293
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:03:16+09:00",
+      "eventTimeUnixMs": 1789218196286
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:03:16+09:00",
+      "eventTimeUnixMs": 1789218196088
+    },
+    {
+      "code": "humidity_value",
+      "value": 68,
+      "eventTime": "2026-09-12T22:03:01+09:00",
+      "eventTimeUnixMs": 1789218181844
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T22:01:16+09:00",
+      "eventTimeUnixMs": 1789218076364
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T22:01:16+09:00",
+      "eventTimeUnixMs": 1789218076355
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T22:01:15+09:00",
+      "eventTimeUnixMs": 1789218075962
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T22:00:46+09:00",
+      "eventTimeUnixMs": 1789218046275
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T22:00:46+09:00",
+      "eventTimeUnixMs": 1789218046268
+    },
+    {
+      "code": "temp_current_external",
+      "value": 253,
+      "eventTime": "2026-09-12T22:00:46+09:00",
+      "eventTimeUnixMs": 1789218046062
+    },
+    {
+      "code": "temp_current",
+      "value": 264,
+      "eventTime": "2026-09-12T22:00:31+09:00",
+      "eventTimeUnixMs": 1789218031826
+    },
+    {
+      "code": "feellike_temp",
+      "value": 298,
+      "eventTime": "2026-09-12T21:57:16+09:00",
+      "eventTimeUnixMs": 1789217836333
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:57:16+09:00",
+      "eventTimeUnixMs": 1789217836325
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 0,
+      "eventTime": "2026-09-12T21:57:16+09:00",
+      "eventTimeUnixMs": 1789217836047
+    },
+    {
+      "code": "temp_current_external",
+      "value": 254,
+      "eventTime": "2026-09-12T21:57:16+09:00",
+      "eventTimeUnixMs": 1789217836034
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:56:16+09:00",
+      "eventTimeUnixMs": 1789217776342
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 83,
+      "eventTime": "2026-09-12T21:56:16+09:00",
+      "eventTimeUnixMs": 1789217776130
+    },
+    {
+      "code": "humidity_value",
+      "value": 67,
+      "eventTime": "2026-09-12T21:56:01+09:00",
+      "eventTimeUnixMs": 1789217761794
+    },
+    {
+      "code": "humidity_value",
+      "value": 66,
+      "eventTime": "2026-09-12T21:55:31+09:00",
+      "eventTimeUnixMs": 1789217731790
+    },
+    {
+      "code": "atmospheric_pressture",
+      "value": 1017,
+      "eventTime": "2026-09-12T21:55:01+09:00",
+      "eventTimeUnixMs": 1789217701904
+    },
+    {
+      "code": "humidity_value",
+      "value": 67,
+      "eventTime": "2026-09-12T21:55:01+09:00",
+      "eventTimeUnixMs": 1789217701894
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T21:54:46+09:00",
+      "eventTimeUnixMs": 1789217686338
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T21:54:46+09:00",
+      "eventTimeUnixMs": 1789217686329
+    },
+    {
+      "code": "temp_current_external",
+      "value": 255,
+      "eventTime": "2026-09-12T21:54:46+09:00",
+      "eventTimeUnixMs": 1789217686119
+    },
+    {
+      "code": "temp_current",
+      "value": 263,
+      "eventTime": "2026-09-12T21:52:31+09:00",
+      "eventTimeUnixMs": 1789217551870
+    },
+    {
+      "code": "feellike_temp",
+      "value": 300,
+      "eventTime": "2026-09-12T21:52:16+09:00",
+      "eventTimeUnixMs": 1789217536320
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:52:16+09:00",
+      "eventTimeUnixMs": 1789217536311
+    },
+    {
+      "code": "temp_current_external",
+      "value": 256,
+      "eventTime": "2026-09-12T21:52:16+09:00",
+      "eventTimeUnixMs": 1789217536101
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:50:46+09:00",
+      "eventTimeUnixMs": 1789217446302
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 82,
+      "eventTime": "2026-09-12T21:50:46+09:00",
+      "eventTimeUnixMs": 1789217446091
+    },
+    {
+      "code": "temp_current",
+      "value": 262,
+      "eventTime": "2026-09-12T21:49:31+09:00",
+      "eventTimeUnixMs": 1789217371746
+    },
+    {
+      "code": "humidity_value",
+      "value": 66,
+      "eventTime": "2026-09-12T21:49:01+09:00",
+      "eventTimeUnixMs": 1789217341857
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T21:48:16+09:00",
+      "eventTimeUnixMs": 1789217296372
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T21:48:16+09:00",
+      "eventTimeUnixMs": 1789217296359
+    },
+    {
+      "code": "temp_current_external",
+      "value": 257,
+      "eventTime": "2026-09-12T21:48:16+09:00",
+      "eventTimeUnixMs": 1789217296071
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:47:46+09:00",
+      "eventTimeUnixMs": 1789217266369
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:47:46+09:00",
+      "eventTimeUnixMs": 1789217266356
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:47:46+09:00",
+      "eventTimeUnixMs": 1789217266067
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 2,
+      "eventTime": "2026-09-12T21:47:16+09:00",
+      "eventTimeUnixMs": 1789217236066
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:46:46+09:00",
+      "eventTimeUnixMs": 1789217206166
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T21:46:16+09:00",
+      "eventTimeUnixMs": 1789217176060
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T21:45:46+09:00",
+      "eventTimeUnixMs": 1789217146350
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T21:45:16+09:00",
+      "eventTimeUnixMs": 1789217116365
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T21:44:46+09:00",
+      "eventTimeUnixMs": 1789217086151
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T21:44:16+09:00",
+      "eventTimeUnixMs": 1789217056371
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T21:44:16+09:00",
+      "eventTimeUnixMs": 1789217056361
+    },
+    {
+      "code": "temp_current_external",
+      "value": 257,
+      "eventTime": "2026-09-12T21:44:16+09:00",
+      "eventTimeUnixMs": 1789217056144
+    },
+    {
+      "code": "temp_current",
+      "value": 261,
+      "eventTime": "2026-09-12T21:44:01+09:00",
+      "eventTimeUnixMs": 1789217041808
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:43:46+09:00",
+      "eventTimeUnixMs": 1789217026352
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T21:43:46+09:00",
+      "eventTimeUnixMs": 1789217026144
+    },
+    {
+      "code": "humidity_value",
+      "value": 64,
+      "eventTime": "2026-09-12T21:43:31+09:00",
+      "eventTimeUnixMs": 1789217011813
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T21:43:31+09:00",
+      "eventTimeUnixMs": 1789217011804
+    },
+    {
+      "code": "feellike_temp",
+      "value": 300,
+      "eventTime": "2026-09-12T21:43:16+09:00",
+      "eventTimeUnixMs": 1789216996352
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T21:43:16+09:00",
+      "eventTimeUnixMs": 1789216996039
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:42:46+09:00",
+      "eventTimeUnixMs": 1789216966585
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:42:46+09:00",
+      "eventTimeUnixMs": 1789216966575
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 46,
+      "eventTime": "2026-09-12T21:42:46+09:00",
+      "eventTimeUnixMs": 1789216966149
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:42:46+09:00",
+      "eventTimeUnixMs": 1789216966137
+    },
+    {
+      "code": "temp_current",
+      "value": 261,
+      "eventTime": "2026-09-12T21:42:31+09:00",
+      "eventTimeUnixMs": 1789216951800
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T21:42:16+09:00",
+      "eventTimeUnixMs": 1789216936451
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 221,
+      "eventTime": "2026-09-12T21:42:16+09:00",
+      "eventTimeUnixMs": 1789216936441
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T21:42:16+09:00",
+      "eventTimeUnixMs": 1789216936039
+    },
+    {
+      "code": "temp_current_external",
+      "value": 257,
+      "eventTime": "2026-09-12T21:42:16+09:00",
+      "eventTimeUnixMs": 1789216936027
+    },
+    {
+      "code": "humidity_value",
+      "value": 63,
+      "eventTime": "2026-09-12T21:41:31+09:00",
+      "eventTimeUnixMs": 1789216891791
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:40:46+09:00",
+      "eventTimeUnixMs": 1789216846346
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:40:46+09:00",
+      "eventTimeUnixMs": 1789216846336
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:40:46+09:00",
+      "eventTimeUnixMs": 1789216846124
+    },
+    {
+      "code": "humidity_value",
+      "value": 62,
+      "eventTime": "2026-09-12T21:40:31+09:00",
+      "eventTimeUnixMs": 1789216831782
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:40:16+09:00",
+      "eventTimeUnixMs": 1789216816534
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:40:16+09:00",
+      "eventTimeUnixMs": 1789216816525
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:40:16+09:00",
+      "eventTimeUnixMs": 1789216816120
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:39:46+09:00",
+      "eventTimeUnixMs": 1789216786332
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:39:46+09:00",
+      "eventTimeUnixMs": 1789216786323
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:39:46+09:00",
+      "eventTimeUnixMs": 1789216786117
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:39:16+09:00",
+      "eventTimeUnixMs": 1789216756341
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:39:16+09:00",
+      "eventTimeUnixMs": 1789216756329
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:39:16+09:00",
+      "eventTimeUnixMs": 1789216756108
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:38:46+09:00",
+      "eventTimeUnixMs": 1789216726533
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:38:46+09:00",
+      "eventTimeUnixMs": 1789216726523
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:38:46+09:00",
+      "eventTimeUnixMs": 1789216726105
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:38:16+09:00",
+      "eventTimeUnixMs": 1789216696319
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:38:16+09:00",
+      "eventTimeUnixMs": 1789216696313
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:38:16+09:00",
+      "eventTimeUnixMs": 1789216696113
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:38:16+09:00",
+      "eventTimeUnixMs": 1789216696101
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T21:38:01+09:00",
+      "eventTimeUnixMs": 1789216681871
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:37:46+09:00",
+      "eventTimeUnixMs": 1789216666396
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:37:46+09:00",
+      "eventTimeUnixMs": 1789216666387
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:37:46+09:00",
+      "eventTimeUnixMs": 1789216666097
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T21:37:16+09:00",
+      "eventTimeUnixMs": 1789216636097
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T21:36:46+09:00",
+      "eventTimeUnixMs": 1789216606094
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:35:46+09:00",
+      "eventTimeUnixMs": 1789216546188
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:35:16+09:00",
+      "eventTimeUnixMs": 1789216516405
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T21:35:16+09:00",
+      "eventTimeUnixMs": 1789216516083
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T21:34:46+09:00",
+      "eventTimeUnixMs": 1789216486398
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:34:16+09:00",
+      "eventTimeUnixMs": 1789216456387
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T21:34:16+09:00",
+      "eventTimeUnixMs": 1789216456196
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 81,
+      "eventTime": "2026-09-12T21:34:16+09:00",
+      "eventTimeUnixMs": 1789216456185
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:34:16+09:00",
+      "eventTimeUnixMs": 1789216456175
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T21:33:46+09:00",
+      "eventTimeUnixMs": 1789216426173
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T21:33:16+09:00",
+      "eventTimeUnixMs": 1789216396068
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:29:16+09:00",
+      "eventTimeUnixMs": 1789216156362
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:29:16+09:00",
+      "eventTimeUnixMs": 1789216156352
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T21:29:16+09:00",
+      "eventTimeUnixMs": 1789216156138
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 0,
+      "eventTime": "2026-09-12T21:27:16+09:00",
+      "eventTimeUnixMs": 1789216036133
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T21:26:16+09:00",
+      "eventTimeUnixMs": 1789215976423
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:26:16+09:00",
+      "eventTimeUnixMs": 1789215976413
+    },
+    {
+      "code": "temp_current_external",
+      "value": 261,
+      "eventTime": "2026-09-12T21:26:16+09:00",
+      "eventTimeUnixMs": 1789215976116
+    },
+    {
+      "code": "humidity_value",
+      "value": 62,
+      "eventTime": "2026-09-12T21:23:31+09:00",
+      "eventTimeUnixMs": 1789215811923
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T21:23:31+09:00",
+      "eventTimeUnixMs": 1789215811914
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:23:01+09:00",
+      "eventTimeUnixMs": 1789215781892
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:20:46+09:00",
+      "eventTimeUnixMs": 1789215646400
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:20:46+09:00",
+      "eventTimeUnixMs": 1789215646394
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T21:20:46+09:00",
+      "eventTimeUnixMs": 1789215646184
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T21:18:16+09:00",
+      "eventTimeUnixMs": 1789215496379
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T21:18:16+09:00",
+      "eventTimeUnixMs": 1789215496369
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T21:18:16+09:00",
+      "eventTimeUnixMs": 1789215496160
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 4,
+      "eventTime": "2026-09-12T21:17:16+09:00",
+      "eventTimeUnixMs": 1789215436155
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:16:16+09:00",
+      "eventTimeUnixMs": 1789215376448
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:16:16+09:00",
+      "eventTimeUnixMs": 1789215376437
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:16:16+09:00",
+      "eventTimeUnixMs": 1789215376145
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:15:46+09:00",
+      "eventTimeUnixMs": 1789215346144
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T21:15:31+09:00",
+      "eventTimeUnixMs": 1789215331806
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:15:16+09:00",
+      "eventTimeUnixMs": 1789215316447
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:15:16+09:00",
+      "eventTimeUnixMs": 1789215316436
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:15:16+09:00",
+      "eventTimeUnixMs": 1789215316138
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:15:01+09:00",
+      "eventTimeUnixMs": 1789215301801
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:14:46+09:00",
+      "eventTimeUnixMs": 1789215286457
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:14:46+09:00",
+      "eventTimeUnixMs": 1789215286450
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T21:14:46+09:00",
+      "eventTimeUnixMs": 1789215286249
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:14:46+09:00",
+      "eventTimeUnixMs": 1789215286237
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T21:14:31+09:00",
+      "eventTimeUnixMs": 1789215271800
+    },
+    {
+      "code": "feellike_temp",
+      "value": 300,
+      "eventTime": "2026-09-12T21:14:16+09:00",
+      "eventTimeUnixMs": 1789215256422
+    },
+    {
+      "code": "feellike_temp",
+      "value": 299,
+      "eventTime": "2026-09-12T21:13:46+09:00",
+      "eventTimeUnixMs": 1789215226454
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:13:46+09:00",
+      "eventTimeUnixMs": 1789215226446
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:13:46+09:00",
+      "eventTimeUnixMs": 1789215226237
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T21:13:16+09:00",
+      "eventTimeUnixMs": 1789215196423
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:13:16+09:00",
+      "eventTimeUnixMs": 1789215196419
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T21:13:16+09:00",
+      "eventTimeUnixMs": 1789215196135
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:13:16+09:00",
+      "eventTimeUnixMs": 1789215196123
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:12:46+09:00",
+      "eventTimeUnixMs": 1789215166226
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T21:12:16+09:00",
+      "eventTimeUnixMs": 1789215136221
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T21:11:46+09:00",
+      "eventTimeUnixMs": 1789215106428
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T21:11:46+09:00",
+      "eventTimeUnixMs": 1789215106225
+    },
+    {
+      "code": "feellike_temp",
+      "value": 297,
+      "eventTime": "2026-09-12T21:11:16+09:00",
+      "eventTimeUnixMs": 1789215076439
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T21:11:16+09:00",
+      "eventTimeUnixMs": 1789215076432
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T21:11:16+09:00",
+      "eventTimeUnixMs": 1789215076224
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T21:11:16+09:00",
+      "eventTimeUnixMs": 1789215076211
+    },
+    {
+      "code": "feellike_temp",
+      "value": 300,
+      "eventTime": "2026-09-12T21:10:46+09:00",
+      "eventTimeUnixMs": 1789215046419
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T21:10:46+09:00",
+      "eventTimeUnixMs": 1789215046211
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T21:10:16+09:00",
+      "eventTimeUnixMs": 1789215016207
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T21:09:46+09:00",
+      "eventTimeUnixMs": 1789214986204
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T21:09:16+09:00",
+      "eventTimeUnixMs": 1789214956204
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T21:08:46+09:00",
+      "eventTimeUnixMs": 1789214926199
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:08:16+09:00",
+      "eventTimeUnixMs": 1789214896406
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:08:16+09:00",
+      "eventTimeUnixMs": 1789214896399
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T21:08:16+09:00",
+      "eventTimeUnixMs": 1789214896202
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:08:16+09:00",
+      "eventTimeUnixMs": 1789214896189
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:08:01+09:00",
+      "eventTimeUnixMs": 1789214881853
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T21:07:46+09:00",
+      "eventTimeUnixMs": 1789214866406
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T21:07:46+09:00",
+      "eventTimeUnixMs": 1789214866399
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:07:46+09:00",
+      "eventTimeUnixMs": 1789214866202
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T21:07:46+09:00",
+      "eventTimeUnixMs": 1789214866190
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T21:07:31+09:00",
+      "eventTimeUnixMs": 1789214851853
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:07:16+09:00",
+      "eventTimeUnixMs": 1789214836400
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:07:16+09:00",
+      "eventTimeUnixMs": 1789214836393
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 1,
+      "eventTime": "2026-09-12T21:07:16+09:00",
+      "eventTimeUnixMs": 1789214836194
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:07:16+09:00",
+      "eventTimeUnixMs": 1789214836183
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T21:06:46+09:00",
+      "eventTimeUnixMs": 1789214806182
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T21:06:16+09:00",
+      "eventTimeUnixMs": 1789214776396
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T21:06:16+09:00",
+      "eventTimeUnixMs": 1789214776387
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T21:06:16+09:00",
+      "eventTimeUnixMs": 1789214776175
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T21:05:46+09:00",
+      "eventTimeUnixMs": 1789214746475
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:05:46+09:00",
+      "eventTimeUnixMs": 1789214746470
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:05:46+09:00",
+      "eventTimeUnixMs": 1789214746171
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:05:31+09:00",
+      "eventTimeUnixMs": 1789214731834
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T21:05:01+09:00",
+      "eventTimeUnixMs": 1789214701831
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:03:16+09:00",
+      "eventTimeUnixMs": 1789214596156
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:03:01+09:00",
+      "eventTimeUnixMs": 1789214581817
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T21:02:46+09:00",
+      "eventTimeUnixMs": 1789214566652
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T21:02:46+09:00",
+      "eventTimeUnixMs": 1789214566641
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T21:02:46+09:00",
+      "eventTimeUnixMs": 1789214566161
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T21:02:46+09:00",
+      "eventTimeUnixMs": 1789214566149
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T21:02:31+09:00",
+      "eventTimeUnixMs": 1789214551718
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T21:02:16+09:00",
+      "eventTimeUnixMs": 1789214536667
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T21:02:16+09:00",
+      "eventTimeUnixMs": 1789214536657
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T21:02:16+09:00",
+      "eventTimeUnixMs": 1789214536261
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T21:02:16+09:00",
+      "eventTimeUnixMs": 1789214536248
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:02:01+09:00",
+      "eventTimeUnixMs": 1789214521813
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T21:01:46+09:00",
+      "eventTimeUnixMs": 1789214506445
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T21:01:46+09:00",
+      "eventTimeUnixMs": 1789214506438
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T21:01:46+09:00",
+      "eventTimeUnixMs": 1789214506142
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T21:01:01+09:00",
+      "eventTimeUnixMs": 1789214461804
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T21:00:16+09:00",
+      "eventTimeUnixMs": 1789214416246
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T21:00:01+09:00",
+      "eventTimeUnixMs": 1789214401897
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:59:46+09:00",
+      "eventTimeUnixMs": 1789214386233
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T20:59:31+09:00",
+      "eventTimeUnixMs": 1789214371893
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:59:16+09:00",
+      "eventTimeUnixMs": 1789214356229
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:58:46+09:00",
+      "eventTimeUnixMs": 1789214326435
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:58:46+09:00",
+      "eventTimeUnixMs": 1789214326225
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:58:31+09:00",
+      "eventTimeUnixMs": 1789214311886
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T20:58:16+09:00",
+      "eventTimeUnixMs": 1789214296423
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T20:58:01+09:00",
+      "eventTimeUnixMs": 1789214281882
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:57:46+09:00",
+      "eventTimeUnixMs": 1789214266219
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T20:57:31+09:00",
+      "eventTimeUnixMs": 1789214251879
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:57:16+09:00",
+      "eventTimeUnixMs": 1789214236630
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:57:16+09:00",
+      "eventTimeUnixMs": 1789214236621
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:57:16+09:00",
+      "eventTimeUnixMs": 1789214236224
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T20:57:16+09:00",
+      "eventTimeUnixMs": 1789214236212
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T20:57:01+09:00",
+      "eventTimeUnixMs": 1789214221774
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:56:46+09:00",
+      "eventTimeUnixMs": 1789214206210
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T20:56:32+09:00",
+      "eventTimeUnixMs": 1789214192384
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T20:56:16+09:00",
+      "eventTimeUnixMs": 1789214176422
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T20:56:16+09:00",
+      "eventTimeUnixMs": 1789214176416
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:56:16+09:00",
+      "eventTimeUnixMs": 1789214176216
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T20:56:16+09:00",
+      "eventTimeUnixMs": 1789214176204
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T20:56:01+09:00",
+      "eventTimeUnixMs": 1789214161869
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:55:46+09:00",
+      "eventTimeUnixMs": 1789214146412
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:55:46+09:00",
+      "eventTimeUnixMs": 1789214146203
+    },
+    {
+      "code": "feellike_temp",
+      "value": 300,
+      "eventTime": "2026-09-12T20:55:16+09:00",
+      "eventTimeUnixMs": 1789214116615
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:55:16+09:00",
+      "eventTimeUnixMs": 1789214116606
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:55:16+09:00",
+      "eventTimeUnixMs": 1789214116213
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T20:55:16+09:00",
+      "eventTimeUnixMs": 1789214116201
+    },
+    {
+      "code": "atmospheric_pressture",
+      "value": 1017,
+      "eventTime": "2026-09-12T20:55:01+09:00",
+      "eventTimeUnixMs": 1789214101964
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T20:54:46+09:00",
+      "eventTimeUnixMs": 1789214086412
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T20:54:46+09:00",
+      "eventTimeUnixMs": 1789214086405
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:54:46+09:00",
+      "eventTimeUnixMs": 1789214086208
+    },
+    {
+      "code": "temp_current_external",
+      "value": 258,
+      "eventTime": "2026-09-12T20:54:46+09:00",
+      "eventTimeUnixMs": 1789214086197
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:54:16+09:00",
+      "eventTimeUnixMs": 1789214056192
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:53:46+09:00",
+      "eventTimeUnixMs": 1789214026189
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:53:16+09:00",
+      "eventTimeUnixMs": 1789213996186
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:53:01+09:00",
+      "eventTimeUnixMs": 1789213981758
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:52:31+09:00",
+      "eventTimeUnixMs": 1789213951843
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:51:46+09:00",
+      "eventTimeUnixMs": 1789213906277
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:51:31+09:00",
+      "eventTimeUnixMs": 1789213891843
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:51:16+09:00",
+      "eventTimeUnixMs": 1789213876174
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:51:01+09:00",
+      "eventTimeUnixMs": 1789213861831
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:50:46+09:00",
+      "eventTimeUnixMs": 1789213846167
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:50:16+09:00",
+      "eventTimeUnixMs": 1789213816272
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:50:01+09:00",
+      "eventTimeUnixMs": 1789213801834
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:49:46+09:00",
+      "eventTimeUnixMs": 1789213786477
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:49:46+09:00",
+      "eventTimeUnixMs": 1789213786262
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T20:49:16+09:00",
+      "eventTimeUnixMs": 1789213756668
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:49:16+09:00",
+      "eventTimeUnixMs": 1789213756259
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:48:46+09:00",
+      "eventTimeUnixMs": 1789213726171
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:48:16+09:00",
+      "eventTimeUnixMs": 1789213696471
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:48:16+09:00",
+      "eventTimeUnixMs": 1789213696466
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:48:16+09:00",
+      "eventTimeUnixMs": 1789213696267
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T20:48:16+09:00",
+      "eventTimeUnixMs": 1789213696255
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T20:47:46+09:00",
+      "eventTimeUnixMs": 1789213666474
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:47:46+09:00",
+      "eventTimeUnixMs": 1789213666466
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:47:46+09:00",
+      "eventTimeUnixMs": 1789213666265
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T20:47:46+09:00",
+      "eventTimeUnixMs": 1789213666253
+    },
+    {
+      "code": "feellike_temp",
+      "value": 301,
+      "eventTime": "2026-09-12T20:47:16+09:00",
+      "eventTimeUnixMs": 1789213636496
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:47:16+09:00",
+      "eventTimeUnixMs": 1789213636490
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:47:16+09:00",
+      "eventTimeUnixMs": 1789213636263
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 2,
+      "eventTime": "2026-09-12T20:47:16+09:00",
+      "eventTimeUnixMs": 1789213636254
+    },
+    {
+      "code": "temp_current_external",
+      "value": 259,
+      "eventTime": "2026-09-12T20:47:16+09:00",
+      "eventTimeUnixMs": 1789213636241
+    },
+    {
+      "code": "feellike_temp",
+      "value": 303,
+      "eventTime": "2026-09-12T20:46:46+09:00",
+      "eventTimeUnixMs": 1789213606450
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:46:46+09:00",
+      "eventTimeUnixMs": 1789213606249
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T20:46:16+09:00",
+      "eventTimeUnixMs": 1789213576525
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:46:16+09:00",
+      "eventTimeUnixMs": 1789213576518
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 81,
+      "eventTime": "2026-09-12T20:46:16+09:00",
+      "eventTimeUnixMs": 1789213576132
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:45:46+09:00",
+      "eventTimeUnixMs": 1789213546239
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:45:16+09:00",
+      "eventTimeUnixMs": 1789213516446
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T20:45:16+09:00",
+      "eventTimeUnixMs": 1789213516437
+    },
+    {
+      "code": "temp_current_external",
+      "value": 260,
+      "eventTime": "2026-09-12T20:45:16+09:00",
+      "eventTimeUnixMs": 1789213516226
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:44:31+09:00",
+      "eventTimeUnixMs": 1789213471784
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:44:01+09:00",
+      "eventTimeUnixMs": 1789213441780
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:43:46+09:00",
+      "eventTimeUnixMs": 1789213426513
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:43:46+09:00",
+      "eventTimeUnixMs": 1789213426504
+    },
+    {
+      "code": "temp_current_external",
+      "value": 261,
+      "eventTime": "2026-09-12T20:43:46+09:00",
+      "eventTimeUnixMs": 1789213426216
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T20:43:16+09:00",
+      "eventTimeUnixMs": 1789213396511
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:43:16+09:00",
+      "eventTimeUnixMs": 1789213396500
+    },
+    {
+      "code": "temp_current_external",
+      "value": 262,
+      "eventTime": "2026-09-12T20:43:16+09:00",
+      "eventTimeUnixMs": 1789213396212
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:42:46+09:00",
+      "eventTimeUnixMs": 1789213366514
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:42:46+09:00",
+      "eventTimeUnixMs": 1789213366507
+    },
+    {
+      "code": "temp_current_external",
+      "value": 261,
+      "eventTime": "2026-09-12T20:42:46+09:00",
+      "eventTimeUnixMs": 1789213366209
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:42:01+09:00",
+      "eventTimeUnixMs": 1789213321869
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:40:31+09:00",
+      "eventTimeUnixMs": 1789213231857
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T20:40:16+09:00",
+      "eventTimeUnixMs": 1789213216488
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:40:16+09:00",
+      "eventTimeUnixMs": 1789213216481
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:40:16+09:00",
+      "eventTimeUnixMs": 1789213216202
+    },
+    {
+      "code": "temp_current_external",
+      "value": 262,
+      "eventTime": "2026-09-12T20:40:16+09:00",
+      "eventTimeUnixMs": 1789213216190
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:40:01+09:00",
+      "eventTimeUnixMs": 1789213201854
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:39:46+09:00",
+      "eventTimeUnixMs": 1789213186495
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:39:46+09:00",
+      "eventTimeUnixMs": 1789213186484
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:39:46+09:00",
+      "eventTimeUnixMs": 1789213186231
+    },
+    {
+      "code": "temp_current_external",
+      "value": 261,
+      "eventTime": "2026-09-12T20:39:46+09:00",
+      "eventTimeUnixMs": 1789213186219
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T20:39:16+09:00",
+      "eventTimeUnixMs": 1789213156494
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:38:46+09:00",
+      "eventTimeUnixMs": 1789213126495
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:38:46+09:00",
+      "eventTimeUnixMs": 1789213126187
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T20:38:16+09:00",
+      "eventTimeUnixMs": 1789213096501
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:38:16+09:00",
+      "eventTimeUnixMs": 1789213096491
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:38:16+09:00",
+      "eventTimeUnixMs": 1789213096187
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T20:38:16+09:00",
+      "eventTimeUnixMs": 1789213096176
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:37:46+09:00",
+      "eventTimeUnixMs": 1789213066478
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 222,
+      "eventTime": "2026-09-12T20:37:46+09:00",
+      "eventTimeUnixMs": 1789213066469
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:37:46+09:00",
+      "eventTimeUnixMs": 1789213066201
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 79,
+      "eventTime": "2026-09-12T20:37:46+09:00",
+      "eventTimeUnixMs": 1789213066189
+    },
+    {
+      "code": "temp_current_external",
+      "value": 262,
+      "eventTime": "2026-09-12T20:37:46+09:00",
+      "eventTimeUnixMs": 1789213066180
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:37:16+09:00",
+      "eventTimeUnixMs": 1789213036288
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 0,
+      "eventTime": "2026-09-12T20:37:16+09:00",
+      "eventTimeUnixMs": 1789213036278
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:36:46+09:00",
+      "eventTimeUnixMs": 1789213006168
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:36:16+09:00",
+      "eventTimeUnixMs": 1789212976477
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T20:36:16+09:00",
+      "eventTimeUnixMs": 1789212976468
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:36:16+09:00",
+      "eventTimeUnixMs": 1789212976177
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T20:36:16+09:00",
+      "eventTimeUnixMs": 1789212976164
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:35:46+09:00",
+      "eventTimeUnixMs": 1789212946270
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T20:35:16+09:00",
+      "eventTimeUnixMs": 1789212916465
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:35:01+09:00",
+      "eventTimeUnixMs": 1789212901817
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T20:34:46+09:00",
+      "eventTimeUnixMs": 1789212886463
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T20:34:16+09:00",
+      "eventTimeUnixMs": 1789212856466
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:34:16+09:00",
+      "eventTimeUnixMs": 1789212856459
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:34:16+09:00",
+      "eventTimeUnixMs": 1789212856261
+    },
+    {
+      "code": "temp_current_external",
+      "value": 262,
+      "eventTime": "2026-09-12T20:34:16+09:00",
+      "eventTimeUnixMs": 1789212856249
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:33:16+09:00",
+      "eventTimeUnixMs": 1789212796245
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T20:32:31+09:00",
+      "eventTimeUnixMs": 1789212751799
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T20:31:16+09:00",
+      "eventTimeUnixMs": 1789212676519
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T20:31:16+09:00",
+      "eventTimeUnixMs": 1789212676227
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:29:46+09:00",
+      "eventTimeUnixMs": 1789212586515
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:29:46+09:00",
+      "eventTimeUnixMs": 1789212586503
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T20:29:46+09:00",
+      "eventTimeUnixMs": 1789212586220
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T20:29:16+09:00",
+      "eventTimeUnixMs": 1789212556540
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:29:16+09:00",
+      "eventTimeUnixMs": 1789212556532
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T20:29:16+09:00",
+      "eventTimeUnixMs": 1789212556315
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:28:46+09:00",
+      "eventTimeUnixMs": 1789212526507
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:28:46+09:00",
+      "eventTimeUnixMs": 1789212526500
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T20:28:46+09:00",
+      "eventTimeUnixMs": 1789212526223
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T20:28:16+09:00",
+      "eventTimeUnixMs": 1789212496522
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:28:16+09:00",
+      "eventTimeUnixMs": 1789212496513
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T20:28:16+09:00",
+      "eventTimeUnixMs": 1789212496205
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:27:16+09:00",
+      "eventTimeUnixMs": 1789212436312
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 3,
+      "eventTime": "2026-09-12T20:27:16+09:00",
+      "eventTimeUnixMs": 1789212436303
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T20:27:01+09:00",
+      "eventTimeUnixMs": 1789212421862
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:26:46+09:00",
+      "eventTimeUnixMs": 1789212406198
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:26:16+09:00",
+      "eventTimeUnixMs": 1789212376498
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:26:16+09:00",
+      "eventTimeUnixMs": 1789212376202
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 79,
+      "eventTime": "2026-09-12T20:26:16+09:00",
+      "eventTimeUnixMs": 1789212376191
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:25:46+09:00",
+      "eventTimeUnixMs": 1789212346190
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:25:16+09:00",
+      "eventTimeUnixMs": 1789212316289
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T20:24:46+09:00",
+      "eventTimeUnixMs": 1789212286502
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T20:24:46+09:00",
+      "eventTimeUnixMs": 1789212286283
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T20:24:31+09:00",
+      "eventTimeUnixMs": 1789212271847
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:24:01+09:00",
+      "eventTimeUnixMs": 1789212241840
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:23:16+09:00",
+      "eventTimeUnixMs": 1789212196482
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:23:16+09:00",
+      "eventTimeUnixMs": 1789212196280
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T20:22:46+09:00",
+      "eventTimeUnixMs": 1789212166481
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:22:46+09:00",
+      "eventTimeUnixMs": 1789212166270
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:22:16+09:00",
+      "eventTimeUnixMs": 1789212136480
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:22:16+09:00",
+      "eventTimeUnixMs": 1789212136266
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T20:19:31+09:00",
+      "eventTimeUnixMs": 1789211971807
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:18:46+09:00",
+      "eventTimeUnixMs": 1789211926252
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T20:18:31+09:00",
+      "eventTimeUnixMs": 1789211911800
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:18:16+09:00",
+      "eventTimeUnixMs": 1789211896525
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:18:16+09:00",
+      "eventTimeUnixMs": 1789211896238
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:18:01+09:00",
+      "eventTimeUnixMs": 1789211881796
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T20:17:46+09:00",
+      "eventTimeUnixMs": 1789211866547
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:17:46+09:00",
+      "eventTimeUnixMs": 1789211866236
+    },
+    {
+      "code": "feellike_temp",
+      "value": 305,
+      "eventTime": "2026-09-12T20:17:16+09:00",
+      "eventTimeUnixMs": 1789211836739
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T20:17:16+09:00",
+      "eventTimeUnixMs": 1789211836341
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 2,
+      "eventTime": "2026-09-12T20:17:16+09:00",
+      "eventTimeUnixMs": 1789211836332
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T20:17:01+09:00",
+      "eventTimeUnixMs": 1789211821788
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:16:46+09:00",
+      "eventTimeUnixMs": 1789211806548
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:16:46+09:00",
+      "eventTimeUnixMs": 1789211806539
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T20:16:46+09:00",
+      "eventTimeUnixMs": 1789211806225
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:16:31+09:00",
+      "eventTimeUnixMs": 1789211791887
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T20:16:16+09:00",
+      "eventTimeUnixMs": 1789211776494
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:16:16+09:00",
+      "eventTimeUnixMs": 1789211776484
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:16:16+09:00",
+      "eventTimeUnixMs": 1789211776234
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T20:16:16+09:00",
+      "eventTimeUnixMs": 1789211776222
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T20:16:01+09:00",
+      "eventTimeUnixMs": 1789211761792
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T20:16:01+09:00",
+      "eventTimeUnixMs": 1789211761782
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:15:46+09:00",
+      "eventTimeUnixMs": 1789211746220
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:15:16+09:00",
+      "eventTimeUnixMs": 1789211716534
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:15:16+09:00",
+      "eventTimeUnixMs": 1789211716527
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:15:16+09:00",
+      "eventTimeUnixMs": 1789211716342
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T20:15:16+09:00",
+      "eventTimeUnixMs": 1789211716328
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T20:14:46+09:00",
+      "eventTimeUnixMs": 1789211686522
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 46,
+      "eventTime": "2026-09-12T20:14:46+09:00",
+      "eventTimeUnixMs": 1789211686314
+    },
+    {
+      "code": "feellike_temp",
+      "value": 302,
+      "eventTime": "2026-09-12T20:14:16+09:00",
+      "eventTimeUnixMs": 1789211656528
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:14:16+09:00",
+      "eventTimeUnixMs": 1789211656522
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:14:16+09:00",
+      "eventTimeUnixMs": 1789211656321
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T20:14:16+09:00",
+      "eventTimeUnixMs": 1789211656308
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:13:46+09:00",
+      "eventTimeUnixMs": 1789211626596
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:13:46+09:00",
+      "eventTimeUnixMs": 1789211626588
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T20:13:46+09:00",
+      "eventTimeUnixMs": 1789211626304
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T20:13:16+09:00",
+      "eventTimeUnixMs": 1789211596522
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T20:13:16+09:00",
+      "eventTimeUnixMs": 1789211596516
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:13:16+09:00",
+      "eventTimeUnixMs": 1789211596313
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T20:13:16+09:00",
+      "eventTimeUnixMs": 1789211596301
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T20:13:01+09:00",
+      "eventTimeUnixMs": 1789211581760
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:12:16+09:00",
+      "eventTimeUnixMs": 1789211536297
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:11:46+09:00",
+      "eventTimeUnixMs": 1789211506300
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:11:16+09:00",
+      "eventTimeUnixMs": 1789211476577
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T20:11:16+09:00",
+      "eventTimeUnixMs": 1789211476290
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:11:01+09:00",
+      "eventTimeUnixMs": 1789211461746
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:10:46+09:00",
+      "eventTimeUnixMs": 1789211446590
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 223,
+      "eventTime": "2026-09-12T20:10:46+09:00",
+      "eventTimeUnixMs": 1789211446589
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T20:10:46+09:00",
+      "eventTimeUnixMs": 1789211446294
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 79,
+      "eventTime": "2026-09-12T20:10:46+09:00",
+      "eventTimeUnixMs": 1789211446283
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:09:46+09:00",
+      "eventTimeUnixMs": 1789211386566
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:09:46+09:00",
+      "eventTimeUnixMs": 1789211386278
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T20:09:16+09:00",
+      "eventTimeUnixMs": 1789211356573
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:09:16+09:00",
+      "eventTimeUnixMs": 1789211356274
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:08:46+09:00",
+      "eventTimeUnixMs": 1789211326271
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:08:01+09:00",
+      "eventTimeUnixMs": 1789211281825
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:07:46+09:00",
+      "eventTimeUnixMs": 1789211266263
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:07:31+09:00",
+      "eventTimeUnixMs": 1789211251822
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 1,
+      "eventTime": "2026-09-12T20:07:16+09:00",
+      "eventTimeUnixMs": 1789211236368
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T20:06:46+09:00",
+      "eventTimeUnixMs": 1789211206257
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:06:16+09:00",
+      "eventTimeUnixMs": 1789211176562
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:06:16+09:00",
+      "eventTimeUnixMs": 1789211176253
+    },
+    {
+      "code": "feellike_temp",
+      "value": 306,
+      "eventTime": "2026-09-12T20:05:46+09:00",
+      "eventTimeUnixMs": 1789211146560
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:05:46+09:00",
+      "eventTimeUnixMs": 1789211146356
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T20:05:16+09:00",
+      "eventTimeUnixMs": 1789211116355
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T20:04:16+09:00",
+      "eventTimeUnixMs": 1789211056345
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:02:31+09:00",
+      "eventTimeUnixMs": 1789210951785
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T20:02:01+09:00",
+      "eventTimeUnixMs": 1789210921791
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T20:02:01+09:00",
+      "eventTimeUnixMs": 1789210921782
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T20:01:31+09:00",
+      "eventTimeUnixMs": 1789210891779
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T20:01:16+09:00",
+      "eventTimeUnixMs": 1789210876614
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T20:01:16+09:00",
+      "eventTimeUnixMs": 1789210876604
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T20:01:16+09:00",
+      "eventTimeUnixMs": 1789210876221
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T20:01:01+09:00",
+      "eventTimeUnixMs": 1789210861774
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T20:00:31+09:00",
+      "eventTimeUnixMs": 1789210831771
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T20:00:16+09:00",
+      "eventTimeUnixMs": 1789210816312
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:59:46+09:00",
+      "eventTimeUnixMs": 1789210786312
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T19:59:16+09:00",
+      "eventTimeUnixMs": 1789210756522
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:59:16+09:00",
+      "eventTimeUnixMs": 1789210756515
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 39,
+      "eventTime": "2026-09-12T19:59:16+09:00",
+      "eventTimeUnixMs": 1789210756313
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 81,
+      "eventTime": "2026-09-12T19:59:16+09:00",
+      "eventTimeUnixMs": 1789210756301
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T19:59:01+09:00",
+      "eventTimeUnixMs": 1789210741862
+    },
+    {
+      "code": "feellike_temp",
+      "value": 304,
+      "eventTime": "2026-09-12T19:58:46+09:00",
+      "eventTimeUnixMs": 1789210726793
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:58:46+09:00",
+      "eventTimeUnixMs": 1789210726785
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 46,
+      "eventTime": "2026-09-12T19:58:46+09:00",
+      "eventTimeUnixMs": 1789210726314
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T19:58:46+09:00",
+      "eventTimeUnixMs": 1789210726302
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T19:58:01+09:00",
+      "eventTimeUnixMs": 1789210681752
+    },
+    {
+      "code": "feellike_temp",
+      "value": 310,
+      "eventTime": "2026-09-12T19:57:46+09:00",
+      "eventTimeUnixMs": 1789210666594
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:57:46+09:00",
+      "eventTimeUnixMs": 1789210666583
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T19:57:46+09:00",
+      "eventTimeUnixMs": 1789210666296
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T19:57:31+09:00",
+      "eventTimeUnixMs": 1789210651749
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T19:57:16+09:00",
+      "eventTimeUnixMs": 1789210636586
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:57:16+09:00",
+      "eventTimeUnixMs": 1789210636577
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T19:57:16+09:00",
+      "eventTimeUnixMs": 1789210636296
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T19:57:16+09:00",
+      "eventTimeUnixMs": 1789210636286
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T19:57:01+09:00",
+      "eventTimeUnixMs": 1789210621756
+    },
+    {
+      "code": "feellike_temp",
+      "value": 311,
+      "eventTime": "2026-09-12T19:56:46+09:00",
+      "eventTimeUnixMs": 1789210606605
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 228,
+      "eventTime": "2026-09-12T19:56:46+09:00",
+      "eventTimeUnixMs": 1789210606599
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:56:46+09:00",
+      "eventTimeUnixMs": 1789210606397
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T19:56:46+09:00",
+      "eventTimeUnixMs": 1789210606385
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T19:55:46+09:00",
+      "eventTimeUnixMs": 1789210546597
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:55:46+09:00",
+      "eventTimeUnixMs": 1789210546587
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 81,
+      "eventTime": "2026-09-12T19:55:46+09:00",
+      "eventTimeUnixMs": 1789210546379
+    },
+    {
+      "code": "feellike_temp",
+      "value": 308,
+      "eventTime": "2026-09-12T19:55:16+09:00",
+      "eventTimeUnixMs": 1789210516592
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:55:16+09:00",
+      "eventTimeUnixMs": 1789210516585
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:55:16+09:00",
+      "eventTimeUnixMs": 1789210516387
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T19:55:16+09:00",
+      "eventTimeUnixMs": 1789210516375
+    },
+    {
+      "code": "atmospheric_pressture",
+      "value": 1016,
+      "eventTime": "2026-09-12T19:55:01+09:00",
+      "eventTimeUnixMs": 1789210501937
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T19:54:46+09:00",
+      "eventTimeUnixMs": 1789210486681
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:54:46+09:00",
+      "eventTimeUnixMs": 1789210486272
+    },
+    {
+      "code": "feellike_temp",
+      "value": 307,
+      "eventTime": "2026-09-12T19:54:16+09:00",
+      "eventTimeUnixMs": 1789210456784
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:54:16+09:00",
+      "eventTimeUnixMs": 1789210456371
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:53:46+09:00",
+      "eventTimeUnixMs": 1789210426367
+    },
+    {
+      "code": "feellike_temp",
+      "value": 309,
+      "eventTime": "2026-09-12T19:53:16+09:00",
+      "eventTimeUnixMs": 1789210396590
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:53:16+09:00",
+      "eventTimeUnixMs": 1789210396579
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:53:16+09:00",
+      "eventTimeUnixMs": 1789210396387
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 81,
+      "eventTime": "2026-09-12T19:53:16+09:00",
+      "eventTimeUnixMs": 1789210396375
+    },
+    {
+      "code": "temp_current_external",
+      "value": 263,
+      "eventTime": "2026-09-12T19:53:16+09:00",
+      "eventTimeUnixMs": 1789210396365
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T19:53:01+09:00",
+      "eventTimeUnixMs": 1789210381819
+    },
+    {
+      "code": "feellike_temp",
+      "value": 310,
+      "eventTime": "2026-09-12T19:52:16+09:00",
+      "eventTimeUnixMs": 1789210336573
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:52:16+09:00",
+      "eventTimeUnixMs": 1789210336567
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:52:16+09:00",
+      "eventTimeUnixMs": 1789210336365
+    },
+    {
+      "code": "temp_current_external",
+      "value": 264,
+      "eventTime": "2026-09-12T19:52:16+09:00",
+      "eventTimeUnixMs": 1789210336353
+    },
+    {
+      "code": "feellike_temp",
+      "value": 311,
+      "eventTime": "2026-09-12T19:50:46+09:00",
+      "eventTimeUnixMs": 1789210246560
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:50:46+09:00",
+      "eventTimeUnixMs": 1789210246553
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 80,
+      "eventTime": "2026-09-12T19:50:46+09:00",
+      "eventTimeUnixMs": 1789210246352
+    },
+    {
+      "code": "temp_current_external",
+      "value": 265,
+      "eventTime": "2026-09-12T19:50:46+09:00",
+      "eventTimeUnixMs": 1789210246341
+    },
+    {
+      "code": "feellike_temp",
+      "value": 312,
+      "eventTime": "2026-09-12T19:49:46+09:00",
+      "eventTimeUnixMs": 1789210186633
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:49:46+09:00",
+      "eventTimeUnixMs": 1789210186621
+    },
+    {
+      "code": "temp_current_external",
+      "value": 266,
+      "eventTime": "2026-09-12T19:49:46+09:00",
+      "eventTimeUnixMs": 1789210186335
+    },
+    {
+      "code": "feellike_temp",
+      "value": 313,
+      "eventTime": "2026-09-12T19:49:16+09:00",
+      "eventTimeUnixMs": 1789210156638
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:49:16+09:00",
+      "eventTimeUnixMs": 1789210156627
+    },
+    {
+      "code": "temp_current_external",
+      "value": 267,
+      "eventTime": "2026-09-12T19:49:16+09:00",
+      "eventTimeUnixMs": 1789210156331
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T19:49:01+09:00",
+      "eventTimeUnixMs": 1789210141790
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:47:46+09:00",
+      "eventTimeUnixMs": 1789210066618
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 228,
+      "eventTime": "2026-09-12T19:47:46+09:00",
+      "eventTimeUnixMs": 1789210066607
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 79,
+      "eventTime": "2026-09-12T19:47:46+09:00",
+      "eventTimeUnixMs": 1789210066246
+    },
+    {
+      "code": "feellike_temp",
+      "value": 314,
+      "eventTime": "2026-09-12T19:47:16+09:00",
+      "eventTimeUnixMs": 1789210036616
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:47:16+09:00",
+      "eventTimeUnixMs": 1789210036604
+    },
+    {
+      "code": "temp_current_external",
+      "value": 268,
+      "eventTime": "2026-09-12T19:47:16+09:00",
+      "eventTimeUnixMs": 1789210036316
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:45:46+09:00",
+      "eventTimeUnixMs": 1789209946628
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:45:46+09:00",
+      "eventTimeUnixMs": 1789209946618
+    },
+    {
+      "code": "temp_current_external",
+      "value": 269,
+      "eventTime": "2026-09-12T19:45:46+09:00",
+      "eventTimeUnixMs": 1789209946417
+    },
+    {
+      "code": "feellike_temp",
+      "value": 317,
+      "eventTime": "2026-09-12T19:45:16+09:00",
+      "eventTimeUnixMs": 1789209916600
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 228,
+      "eventTime": "2026-09-12T19:45:16+09:00",
+      "eventTimeUnixMs": 1789209916592
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:45:16+09:00",
+      "eventTimeUnixMs": 1789209916318
+    },
+    {
+      "code": "temp_current_external",
+      "value": 270,
+      "eventTime": "2026-09-12T19:45:16+09:00",
+      "eventTimeUnixMs": 1789209916305
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:44:16+09:00",
+      "eventTimeUnixMs": 1789209856609
+    },
+    {
+      "code": "temp_current_external",
+      "value": 269,
+      "eventTime": "2026-09-12T19:44:16+09:00",
+      "eventTimeUnixMs": 1789209856400
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T19:44:01+09:00",
+      "eventTimeUnixMs": 1789209841753
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:43:46+09:00",
+      "eventTimeUnixMs": 1789209826812
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 228,
+      "eventTime": "2026-09-12T19:43:46+09:00",
+      "eventTimeUnixMs": 1789209826802
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:43:46+09:00",
+      "eventTimeUnixMs": 1789209826405
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 78,
+      "eventTime": "2026-09-12T19:43:46+09:00",
+      "eventTimeUnixMs": 1789209826393
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:40:46+09:00",
+      "eventTimeUnixMs": 1789209646374
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:40:16+09:00",
+      "eventTimeUnixMs": 1789209616370
+    },
+    {
+      "code": "feellike_temp",
+      "value": 316,
+      "eventTime": "2026-09-12T19:39:46+09:00",
+      "eventTimeUnixMs": 1789209586579
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:39:46+09:00",
+      "eventTimeUnixMs": 1789209586573
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:39:46+09:00",
+      "eventTimeUnixMs": 1789209586375
+    },
+    {
+      "code": "temp_current_external",
+      "value": 270,
+      "eventTime": "2026-09-12T19:39:46+09:00",
+      "eventTimeUnixMs": 1789209586363
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 0,
+      "eventTime": "2026-09-12T19:37:16+09:00",
+      "eventTimeUnixMs": 1789209436356
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:34:16+09:00",
+      "eventTimeUnixMs": 1789209256645
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:34:16+09:00",
+      "eventTimeUnixMs": 1789209256635
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 77,
+      "eventTime": "2026-09-12T19:34:16+09:00",
+      "eventTimeUnixMs": 1789209256426
+    },
+    {
+      "code": "humidity_value",
+      "value": 59,
+      "eventTime": "2026-09-12T19:33:01+09:00",
+      "eventTimeUnixMs": 1789209181781
+    },
+    {
+      "code": "temp_current",
+      "value": 258,
+      "eventTime": "2026-09-12T19:32:31+09:00",
+      "eventTimeUnixMs": 1789209151775
+    },
+    {
+      "code": "feellike_temp",
+      "value": 317,
+      "eventTime": "2026-09-12T19:32:16+09:00",
+      "eventTimeUnixMs": 1789209136630
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T19:32:16+09:00",
+      "eventTimeUnixMs": 1789209136621
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 76,
+      "eventTime": "2026-09-12T19:32:16+09:00",
+      "eventTimeUnixMs": 1789209136412
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:31:46+09:00",
+      "eventTimeUnixMs": 1789209106630
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:31:46+09:00",
+      "eventTimeUnixMs": 1789209106621
+    },
+    {
+      "code": "temp_current_external",
+      "value": 271,
+      "eventTime": "2026-09-12T19:31:46+09:00",
+      "eventTimeUnixMs": 1789209106412
+    },
+    {
+      "code": "feellike_temp",
+      "value": 319,
+      "eventTime": "2026-09-12T19:31:16+09:00",
+      "eventTimeUnixMs": 1789209076627
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 227,
+      "eventTime": "2026-09-12T19:31:16+09:00",
+      "eventTimeUnixMs": 1789209076621
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:31:16+09:00",
+      "eventTimeUnixMs": 1789209076416
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 77,
+      "eventTime": "2026-09-12T19:31:16+09:00",
+      "eventTimeUnixMs": 1789209076405
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:30:46+09:00",
+      "eventTimeUnixMs": 1789209046404
+    },
+    {
+      "code": "humidity_value",
+      "value": 58,
+      "eventTime": "2026-09-12T19:30:31+09:00",
+      "eventTimeUnixMs": 1789209031757
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:30:16+09:00",
+      "eventTimeUnixMs": 1789209016405
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T19:30:01+09:00",
+      "eventTimeUnixMs": 1789209001754
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:29:16+09:00",
+      "eventTimeUnixMs": 1789208956393
+    },
+    {
+      "code": "humidity_value",
+      "value": 59,
+      "eventTime": "2026-09-12T19:29:01+09:00",
+      "eventTimeUnixMs": 1789208941746
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:28:16+09:00",
+      "eventTimeUnixMs": 1789208896386
+    },
+    {
+      "code": "humidity_value",
+      "value": 60,
+      "eventTime": "2026-09-12T19:28:01+09:00",
+      "eventTimeUnixMs": 1789208881739
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:27:46+09:00",
+      "eventTimeUnixMs": 1789208866382
+    },
+    {
+      "code": "humidity_value",
+      "value": 61,
+      "eventTime": "2026-09-12T19:27:31+09:00",
+      "eventTimeUnixMs": 1789208851738
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:27:16+09:00",
+      "eventTimeUnixMs": 1789208836386
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 2,
+      "eventTime": "2026-09-12T19:27:16+09:00",
+      "eventTimeUnixMs": 1789208836377
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:26:46+09:00",
+      "eventTimeUnixMs": 1789208806663
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:26:16+09:00",
+      "eventTimeUnixMs": 1789208776659
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:26:16+09:00",
+      "eventTimeUnixMs": 1789208776372
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:25:46+09:00",
+      "eventTimeUnixMs": 1789208746367
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:25:16+09:00",
+      "eventTimeUnixMs": 1789208716364
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:24:46+09:00",
+      "eventTimeUnixMs": 1789208686676
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:24:46+09:00",
+      "eventTimeUnixMs": 1789208686670
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:24:46+09:00",
+      "eventTimeUnixMs": 1789208686471
+    },
+    {
+      "code": "temp_current_external",
+      "value": 272,
+      "eventTime": "2026-09-12T19:24:46+09:00",
+      "eventTimeUnixMs": 1789208686459
+    },
+    {
+      "code": "feellike_temp",
+      "value": 317,
+      "eventTime": "2026-09-12T19:24:16+09:00",
+      "eventTimeUnixMs": 1789208656682
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 224,
+      "eventTime": "2026-09-12T19:24:16+09:00",
+      "eventTimeUnixMs": 1789208656672
+    },
+    {
+      "code": "temp_current_external",
+      "value": 271,
+      "eventTime": "2026-09-12T19:24:16+09:00",
+      "eventTimeUnixMs": 1789208656455
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:23:46+09:00",
+      "eventTimeUnixMs": 1789208626456
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:23:16+09:00",
+      "eventTimeUnixMs": 1789208596349
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:22:46+09:00",
+      "eventTimeUnixMs": 1789208566456
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:22:16+09:00",
+      "eventTimeUnixMs": 1789208536444
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:21:46+09:00",
+      "eventTimeUnixMs": 1789208506441
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:21:16+09:00",
+      "eventTimeUnixMs": 1789208476648
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:21:16+09:00",
+      "eventTimeUnixMs": 1789208476638
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:21:16+09:00",
+      "eventTimeUnixMs": 1789208476344
+    },
+    {
+      "code": "temp_current_external",
+      "value": 272,
+      "eventTime": "2026-09-12T19:21:16+09:00",
+      "eventTimeUnixMs": 1789208476331
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:20:46+09:00",
+      "eventTimeUnixMs": 1789208446433
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:20:16+09:00",
+      "eventTimeUnixMs": 1789208416434
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:18:46+09:00",
+      "eventTimeUnixMs": 1789208326419
+    },
+    {
+      "code": "feellike_temp",
+      "value": 320,
+      "eventTime": "2026-09-12T19:18:16+09:00",
+      "eventTimeUnixMs": 1789208296630
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:18:16+09:00",
+      "eventTimeUnixMs": 1789208296624
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T19:18:16+09:00",
+      "eventTimeUnixMs": 1789208296423
+    },
+    {
+      "code": "temp_current_external",
+      "value": 273,
+      "eventTime": "2026-09-12T19:18:16+09:00",
+      "eventTimeUnixMs": 1789208296411
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:17:46+09:00",
+      "eventTimeUnixMs": 1789208266628
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:17:46+09:00",
+      "eventTimeUnixMs": 1789208266621
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:17:46+09:00",
+      "eventTimeUnixMs": 1789208266420
+    },
+    {
+      "code": "temp_current_external",
+      "value": 272,
+      "eventTime": "2026-09-12T19:17:46+09:00",
+      "eventTimeUnixMs": 1789208266408
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:17:16+09:00",
+      "eventTimeUnixMs": 1789208236695
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:17:16+09:00",
+      "eventTimeUnixMs": 1789208236414
+    },
+    {
+      "code": "feellike_temp",
+      "value": 320,
+      "eventTime": "2026-09-12T19:16:46+09:00",
+      "eventTimeUnixMs": 1789208206692
+    },
+    {
+      "code": "feellike_temp",
+      "value": 316,
+      "eventTime": "2026-09-12T19:16:16+09:00",
+      "eventTimeUnixMs": 1789208176711
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:16:16+09:00",
+      "eventTimeUnixMs": 1789208176507
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:15:46+09:00",
+      "eventTimeUnixMs": 1789208146504
+    },
+    {
+      "code": "humidity_value",
+      "value": 62,
+      "eventTime": "2026-09-12T19:15:01+09:00",
+      "eventTimeUnixMs": 1789208101850
+    },
+    {
+      "code": "feellike_temp",
+      "value": 320,
+      "eventTime": "2026-09-12T19:14:46+09:00",
+      "eventTimeUnixMs": 1789208086705
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:14:46+09:00",
+      "eventTimeUnixMs": 1789208086699
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:14:46+09:00",
+      "eventTimeUnixMs": 1789208086501
+    },
+    {
+      "code": "temp_current_external",
+      "value": 273,
+      "eventTime": "2026-09-12T19:14:46+09:00",
+      "eventTimeUnixMs": 1789208086488
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:13:46+09:00",
+      "eventTimeUnixMs": 1789208026484
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:13:16+09:00",
+      "eventTimeUnixMs": 1789207996378
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:12:46+09:00",
+      "eventTimeUnixMs": 1789207966477
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:12:16+09:00",
+      "eventTimeUnixMs": 1789207936683
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T19:12:16+09:00",
+      "eventTimeUnixMs": 1789207936474
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:11:46+09:00",
+      "eventTimeUnixMs": 1789207906678
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:11:46+09:00",
+      "eventTimeUnixMs": 1789207906470
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:11:16+09:00",
+      "eventTimeUnixMs": 1789207876682
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:11:16+09:00",
+      "eventTimeUnixMs": 1789207876672
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:11:16+09:00",
+      "eventTimeUnixMs": 1789207876373
+    },
+    {
+      "code": "temp_current_external",
+      "value": 272,
+      "eventTime": "2026-09-12T19:11:16+09:00",
+      "eventTimeUnixMs": 1789207876361
+    },
+    {
+      "code": "feellike_temp",
+      "value": 320,
+      "eventTime": "2026-09-12T19:10:46+09:00",
+      "eventTimeUnixMs": 1789207846676
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:10:46+09:00",
+      "eventTimeUnixMs": 1789207846670
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:10:46+09:00",
+      "eventTimeUnixMs": 1789207846471
+    },
+    {
+      "code": "temp_current_external",
+      "value": 273,
+      "eventTime": "2026-09-12T19:10:46+09:00",
+      "eventTimeUnixMs": 1789207846460
+    },
+    {
+      "code": "feellike_temp",
+      "value": 318,
+      "eventTime": "2026-09-12T19:09:46+09:00",
+      "eventTimeUnixMs": 1789207786673
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 225,
+      "eventTime": "2026-09-12T19:09:46+09:00",
+      "eventTimeUnixMs": 1789207786667
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 19,
+      "eventTime": "2026-09-12T19:09:46+09:00",
+      "eventTimeUnixMs": 1789207786465
+    },
+    {
+      "code": "temp_current_external",
+      "value": 272,
+      "eventTime": "2026-09-12T19:09:46+09:00",
+      "eventTimeUnixMs": 1789207786453
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T19:09:31+09:00",
+      "eventTimeUnixMs": 1789207771811
+    },
+    {
+      "code": "feellike_temp",
+      "value": 317,
+      "eventTime": "2026-09-12T19:09:16+09:00",
+      "eventTimeUnixMs": 1789207756665
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 0,
+      "eventTime": "2026-09-12T19:09:16+09:00",
+      "eventTimeUnixMs": 1789207756452
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T19:09:01+09:00",
+      "eventTimeUnixMs": 1789207741805
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:08:46+09:00",
+      "eventTimeUnixMs": 1789207726448
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:08:16+09:00",
+      "eventTimeUnixMs": 1789207696444
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:07:46+09:00",
+      "eventTimeUnixMs": 1789207666447
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T19:07:31+09:00",
+      "eventTimeUnixMs": 1789207651794
+    },
+    {
+      "code": "feellike_temp",
+      "value": 320,
+      "eventTime": "2026-09-12T19:07:16+09:00",
+      "eventTimeUnixMs": 1789207636647
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 33,
+      "eventTime": "2026-09-12T19:07:16+09:00",
+      "eventTimeUnixMs": 1789207636453
+    },
+    {
+      "code": "windspeed_avg",
+      "value": 3,
+      "eventTime": "2026-09-12T19:07:16+09:00",
+      "eventTimeUnixMs": 1789207636444
+    },
+    {
+      "code": "temp_current",
+      "value": 259,
+      "eventTime": "2026-09-12T19:07:01+09:00",
+      "eventTimeUnixMs": 1789207621791
+    },
+    {
+      "code": "feellike_temp",
+      "value": 315,
+      "eventTime": "2026-09-12T19:06:46+09:00",
+      "eventTimeUnixMs": 1789207606643
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 26,
+      "eventTime": "2026-09-12T19:06:46+09:00",
+      "eventTimeUnixMs": 1789207606446
+    },
+    {
+      "code": "temp_current",
+      "value": 260,
+      "eventTime": "2026-09-12T19:06:31+09:00",
+      "eventTimeUnixMs": 1789207591787
+    },
+    {
+      "code": "feellike_temp",
+      "value": 320,
+      "eventTime": "2026-09-12T19:05:46+09:00",
+      "eventTimeUnixMs": 1789207546644
+    },
+    {
+      "code": "dew_point_temp",
+      "value": 226,
+      "eventTime": "2026-09-12T19:05:46+09:00",
+      "eventTimeUnixMs": 1789207546638
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 6,
+      "eventTime": "2026-09-12T19:05:46+09:00",
+      "eventTimeUnixMs": 1789207546447
+    },
+    {
+      "code": "humidity_outdoor",
+      "value": 76,
+      "eventTime": "2026-09-12T19:05:46+09:00",
+      "eventTimeUnixMs": 1789207546436
+    },
+    {
+      "code": "temp_current_external",
+      "value": 273,
+      "eventTime": "2026-09-12T19:05:46+09:00",
+      "eventTimeUnixMs": 1789207546426
+    },
+    {
+      "code": "windspeed_gust",
+      "value": 13,
+      "eventTime": "2026-09-12T19:05:16+09:00",
+      "eventTimeUnixMs": 1789207516423
+    }
+  ]
+}
