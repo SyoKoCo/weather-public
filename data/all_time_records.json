@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T18:10:42+00:00",
+  "generatedAt": "2026-09-23T18:58:28+00:00",
   "timezoneOffsetHours": 9,
-  "sourceFileCount": 40,
+  "sourceFileCount": 43,
   "sourceDates": [
     "2026-08-10",
     "2026-08-11",
@@ -42,7 +42,10 @@
     "2026-09-17",
     "2026-09-18",
     "2026-09-19",
-    "2026-09-20"
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23"
   ],
   "topCount": 5,
   "records": {
@@ -184,6 +187,14 @@
         },
         {
           "rank": 3,
+          "value": 20.1,
+          "observedAt": "2026-09-23T08:35:44+09:00",
+          "startLocal": null,
+          "endLocal": null,
+          "sourceDate": "2026-09-23"
+        },
+        {
+          "rank": 4,
           "value": 20.5,
           "observedAt": "2026-09-16T23:33:03+09:00",
           "startLocal": null,
@@ -191,20 +202,12 @@
           "sourceDate": "2026-09-16"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "value": 20.6,
           "observedAt": "2026-09-05T05:52:39+09:00",
           "startLocal": null,
           "endLocal": null,
           "sourceDate": "2026-09-05"
-        },
-        {
-          "rank": 5,
-          "value": 20.7,
-          "observedAt": "2026-09-11T06:58:20+09:00",
-          "startLocal": null,
-          "endLocal": null,
-          "sourceDate": "2026-09-11"
         }
       ]
     },
@@ -424,6 +427,14 @@
         },
         {
           "rank": 3,
+          "value": 22.6,
+          "observedAt": "2026-09-21T13:57:19+09:00",
+          "startLocal": null,
+          "endLocal": null,
+          "sourceDate": "2026-09-21"
+        },
+        {
+          "rank": 4,
           "value": 21.3,
           "observedAt": "2026-09-20T15:06:22+09:00",
           "startLocal": null,
@@ -431,20 +442,12 @@
           "sourceDate": "2026-09-20"
         },
         {
-          "rank": 4,
-          "value": 17.9,
-          "observedAt": "2026-08-23T18:02:15+09:00",
-          "startLocal": null,
-          "endLocal": null,
-          "sourceDate": "2026-08-23"
-        },
-        {
           "rank": 5,
-          "value": 17.9,
-          "observedAt": "2026-08-25T14:04:40+09:00",
+          "value": 19.3,
+          "observedAt": "2026-09-22T15:09:16+09:00",
           "startLocal": null,
           "endLocal": null,
-          "sourceDate": "2026-08-25"
+          "sourceDate": "2026-09-22"
         }
       ]
     },
