@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T19:07:55+00:00",
+  "generatedAt": "2026-10-21T19:13:28+00:00",
   "timezoneOffsetHours": 9,
-  "sourceFileCount": 70,
+  "sourceFileCount": 71,
   "sourceDates": [
     "2026-08-10",
     "2026-08-11",
@@ -72,7 +72,8 @@
     "2026-10-17",
     "2026-10-18",
     "2026-10-19",
-    "2026-10-20"
+    "2026-10-20",
+    "2026-10-21"
   ],
   "topCount": 5,
   "records": {
@@ -118,11 +119,11 @@
     },
     "windAverageMax": {
       "rank": 1,
-      "value": 8.5,
-      "observedAt": "2026-10-14T14:37:11+09:00",
+      "value": 9.0,
+      "observedAt": "2026-10-21T18:57:19+09:00",
       "startLocal": null,
       "endLocal": null,
-      "sourceDate": "2026-10-14"
+      "sourceDate": "2026-10-21"
     },
     "windGustMax": {
       "rank": 1,
@@ -390,6 +391,14 @@
       "rankings": [
         {
           "rank": 1,
+          "value": 9.0,
+          "observedAt": "2026-10-21T18:57:19+09:00",
+          "startLocal": null,
+          "endLocal": null,
+          "sourceDate": "2026-10-21"
+        },
+        {
+          "rank": 2,
           "value": 8.5,
           "observedAt": "2026-10-14T14:37:11+09:00",
           "startLocal": null,
@@ -397,7 +406,7 @@
           "sourceDate": "2026-10-14"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "value": 6.6,
           "observedAt": "2026-08-23T18:07:15+09:00",
           "startLocal": null,
@@ -405,7 +414,7 @@
           "sourceDate": "2026-08-23"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "value": 6.4,
           "observedAt": "2026-08-11T14:17:20+09:00",
           "startLocal": null,
@@ -413,20 +422,12 @@
           "sourceDate": "2026-08-11"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "value": 5.9,
           "observedAt": "2026-10-01T12:07:19+09:00",
           "startLocal": null,
           "endLocal": null,
           "sourceDate": "2026-10-01"
-        },
-        {
-          "rank": 5,
-          "value": 5.6,
-          "observedAt": "2026-08-31T17:17:22+09:00",
-          "startLocal": null,
-          "endLocal": null,
-          "sourceDate": "2026-08-31"
         }
       ]
     },
@@ -454,6 +455,14 @@
         },
         {
           "rank": 3,
+          "value": 23.9,
+          "observedAt": "2026-10-21T19:24:49+09:00",
+          "startLocal": null,
+          "endLocal": null,
+          "sourceDate": "2026-10-21"
+        },
+        {
+          "rank": 4,
           "value": 23.3,
           "observedAt": "2026-08-11T14:06:50+09:00",
           "startLocal": null,
@@ -461,20 +470,12 @@
           "sourceDate": "2026-08-11"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "value": 23.3,
           "observedAt": "2026-10-07T13:19:01+09:00",
           "startLocal": null,
           "endLocal": null,
           "sourceDate": "2026-10-07"
-        },
-        {
-          "rank": 5,
-          "value": 22.6,
-          "observedAt": "2026-09-21T13:57:19+09:00",
-          "startLocal": null,
-          "endLocal": null,
-          "sourceDate": "2026-09-21"
         }
       ]
     },
