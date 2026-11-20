@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T22:39:48+00:00",
+  "generatedAt": "2026-11-20T22:13:10+00:00",
   "timezoneOffsetHours": 9,
-  "sourceFileCount": 99,
+  "sourceFileCount": 100,
   "sourceDates": [
     "2026-08-10",
     "2026-08-11",
@@ -101,7 +101,8 @@
     "2026-11-16",
     "2026-11-17",
     "2026-11-18",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-20"
   ],
   "topCount": 5,
   "records": {
@@ -115,11 +116,11 @@
     },
     "outdoorTemperatureMin": {
       "rank": 1,
-      "value": 5.2,
-      "observedAt": "2026-11-11T06:49:20+09:00",
+      "value": 5.0,
+      "observedAt": "2026-11-20T23:56:54+09:00",
       "startLocal": null,
       "endLocal": null,
-      "sourceDate": "2026-11-11"
+      "sourceDate": "2026-11-20"
     },
     "rain1hMax": {
       "rank": 1,
@@ -227,6 +228,14 @@
       "rankings": [
         {
           "rank": 1,
+          "value": 5.0,
+          "observedAt": "2026-11-20T23:56:54+09:00",
+          "startLocal": null,
+          "endLocal": null,
+          "sourceDate": "2026-11-20"
+        },
+        {
+          "rank": 2,
           "value": 5.2,
           "observedAt": "2026-11-11T06:49:20+09:00",
           "startLocal": null,
@@ -234,7 +243,7 @@
           "sourceDate": "2026-11-11"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "value": 5.6,
           "observedAt": "2026-11-19T22:31:26+09:00",
           "startLocal": null,
@@ -242,7 +251,7 @@
           "sourceDate": "2026-11-19"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "value": 6.6,
           "observedAt": "2026-11-12T05:46:48+09:00",
           "startLocal": null,
@@ -250,20 +259,12 @@
           "sourceDate": "2026-11-12"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "value": 7.2,
           "observedAt": "2026-10-29T06:09:57+09:00",
           "startLocal": null,
           "endLocal": null,
           "sourceDate": "2026-10-29"
-        },
-        {
-          "rank": 5,
-          "value": 7.2,
-          "observedAt": "2026-11-17T05:44:34+09:00",
-          "startLocal": null,
-          "endLocal": null,
-          "sourceDate": "2026-11-17"
         }
       ]
     },
@@ -443,19 +444,19 @@
         },
         {
           "rank": 4,
+          "value": 8.2,
+          "observedAt": "2026-11-20T15:17:25+09:00",
+          "startLocal": null,
+          "endLocal": null,
+          "sourceDate": "2026-11-20"
+        },
+        {
+          "rank": 5,
           "value": 7.6,
           "observedAt": "2026-11-07T13:47:30+09:00",
           "startLocal": null,
           "endLocal": null,
           "sourceDate": "2026-11-07"
-        },
-        {
-          "rank": 5,
-          "value": 7.2,
-          "observedAt": "2026-10-27T17:47:31+09:00",
-          "startLocal": null,
-          "endLocal": null,
-          "sourceDate": "2026-10-27"
         }
       ]
     },
